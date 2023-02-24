@@ -1,34 +1,51 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import './App.css'
+//Base
+import { createBrowserRouter, RouterProvider } from "react-router-dom";
 
-function App() {
-  const [count, setCount] = useState(0)
+// Components
+import Home from "/@/Pages/Home/Home";
+import PodcastEpisodes from "./Components/PodcastEpisodes/PodcastEpisodes";
+import PodcastDetails from "/@/Pages/PodcastDetails/PodcastDetails";
+import PodcastEpisode from "./Components/PodcastEpisode/PodcastEpisode";
+import NotFound from "./Pages/NotFound";
 
-  return (
-    <div className="App">
-      <div>
-        <a href="https://vitejs.dev" target="_blank">
-          <img src="/vite.svg" className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://reactjs.org" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.tsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
-    </div>
-  )
+// Loaders
+import homeLoader from "/@/Pages/Home/Loader";
+import podcastLoader from "/@/Pages/PodcastDetails/Loader";
+import episodesLoader from "/@/Components/PodcastEpisodes/Loader";
+import episodeLoader from "/@/Components/PodcastEpisode/Loader";
+
+const router = createBrowserRouter([
+  {
+    path: "/",
+    element: <Home />,
+    loader: homeLoader,
+    errorElement: <NotFound />
+  },
+  {
+    path: "podcasts/:podcastId",
+    element: <PodcastDetails />,
+    loader: podcastLoader,
+    errorElement: <NotFound message="Podcast currently unavailable!" />,
+    children: [
+      {
+        index: true,
+        loader: episodesLoader,
+        element: <PodcastEpisodes />
+      },
+      {
+        path: "episode/:episodeId",
+        errorElement: <NotFound message="Podcast episode not found!" />,
+        element: <PodcastEpisode />,
+        loader: episodeLoader
+      }
+    ]
+  },
+  {
+    path: "*",
+    errorElement: <NotFound message="Page not found!" />
+  }
+]);
+
+export default function App() {
+  return <RouterProvider router={router} />;
 }
-
-export default App
