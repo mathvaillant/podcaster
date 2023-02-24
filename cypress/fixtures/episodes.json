@@ -1,0 +1,1847 @@
+{
+  "resultCount": 51,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "podcast",
+      "artistId": 284341002,
+      "collectionId": 1096830182,
+      "trackId": 1096830182,
+      "artistName": "Interval Presents",
+      "collectionName": "Drink Champs",
+      "trackName": "Drink Champs",
+      "collectionCensoredName": "Drink Champs",
+      "trackCensoredName": "Drink Champs",
+      "artistViewUrl": "https://podcasts.apple.com/us/artist/iheartradio/284341002?uo=4",
+      "collectionViewUrl": "https://podcasts.apple.com/us/podcast/drink-champs/id1096830182?uo=4",
+      "feedUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/df6d181a-09ea-4bf2-adc6-ae33005f650d/podcast.rss",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/drink-champs/id1096830182?uo=4",
+      "artworkUrl30": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts113/v4/46/39/69/46396977-6d87-f120-6432-6373dcefdf9b/mza_6589930413574180525.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts113/v4/46/39/69/46396977-6d87-f120-6432-6373dcefdf9b/mza_6589930413574180525.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts113/v4/46/39/69/46396977-6d87-f120-6432-6373dcefdf9b/mza_6589930413574180525.jpg/100x100bb.jpg",
+      "collectionPrice": 0,
+      "trackPrice": 0,
+      "collectionHdPrice": 0,
+      "releaseDate": "2023-02-17T08:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "explicit",
+      "trackCount": 485,
+      "trackTimeMillis": 11168,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "Music",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl600": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts113/v4/46/39/69/46396977-6d87-f120-6432-6373dcefdf9b/mza_6589930413574180525.jpg/600x600bb.jpg",
+      "genreIds": [
+        "1310",
+        "26",
+        "1324"
+      ],
+      "genres": [
+        "Music",
+        "Podcasts",
+        "Society & Culture"
+      ]
+    },
+    {
+      "artworkUrl600": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts116/v4/14/e3/47/14e34799-421a-c242-5b67-1ad753ceeb0b/mza_16301894267974865804.jpg/600x600bb.jpg",
+      "closedCaptioning": "none",
+      "collectionId": 1096830182,
+      "collectionName": "Drink Champs",
+      "description": "N.O.R.E. & DJ EFN are the Drink Champs. In this episode the Champs chop it up with comedy legend Michael Blackson!Michael Blackson shares his journey in life and comedy. Michael shares stories about building schools, cracking jokes, Next Friday (the movie) and much much more! Lots of great stories that you don’t want to miss!!Make some noise!!! 💐💐💐🏆🏆🏆\n\n*Subscribe to Patreon NOW for exclusive content, discount codes, M&G’s + more:  🏆*\n\nhttps://www.patreon.com/drinkchamps\n\n*Listen and subscribe at https://www.drinkchamps.com\n\n Follow Drink Champs:\n\nhttps://www.instagram.com/drinkchamps\n\nhttps://www.twitter.com/drinkchamps\n\nhttps://www.facebook.com/drinkchamps\n\nhttps://www.youtube.com/drinkchamps\n\n DJ EFN\n\nhttps://www.crazyhood.com\n\nhttps://www.instagram.com/whoscrazy\n\nhttps://www.twitter.com/djefn\n\nhttps://www.facebook.com/crazyhoodproductions\n\n N.O.R.E.\n\nhttps://www.instagram.com/therealnoreaga\n\nhttps://www.twitter.com/noreaga\n\n*Check out our Culture Cards NFT project by joining The Culture Cards Discord: 👇*\n\nhttps://discord.gg/theculturecards\nSee omnystudio.com/listener for privacy information.",
+      "releaseDate": "2023-02-17T08:00:00Z",
+      "shortDescription": "",
+      "trackTimeMillis": 11168000,
+      "collectionViewUrl": "https://itunes.apple.com/us/podcast/drink-champs/id1096830182?mt=2&uo=4",
+      "trackId": 1000600128503,
+      "trackName": "Episode 351 w/ Michael Blackson",
+      "artistIds": [
+        284341002
+      ],
+      "feedUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/df6d181a-09ea-4bf2-adc6-ae33005f650d/podcast.rss",
+      "episodeFileExtension": "mp3",
+      "episodeContentType": "audio",
+      "artworkUrl160": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts116/v4/14/e3/47/14e34799-421a-c242-5b67-1ad753ceeb0b/mza_16301894267974865804.jpg/160x160bb.jpg",
+      "episodeUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/af711c29-e004-47d1-8540-afab00fc2266/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "previewUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/af711c29-e004-47d1-8540-afab00fc2266/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "artworkUrl60": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts116/v4/14/e3/47/14e34799-421a-c242-5b67-1ad753ceeb0b/mza_16301894267974865804.jpg/60x60bb.jpg",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/interval-presents/284341002?mt=2&uo=4",
+      "contentAdvisoryRating": "Explicit",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/episode-351-w-michael-blackson/id1096830182?i=1000600128503&uo=4",
+      "country": "USA",
+      "genres": [
+        {
+          "name": "Music",
+          "id": "1310"
+        }
+      ],
+      "episodeGuid": "af711c29-e004-47d1-8540-afab00fc2266",
+      "kind": "podcast-episode",
+      "wrapperType": "podcastEpisode"
+    },
+    {
+      "artworkUrl600": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts126/v4/20/d1/04/20d104a9-ffa0-83b4-ea09-004e9ea48c02/mza_3986351716056405447.jpg/600x600bb.jpg",
+      "closedCaptioning": "none",
+      "collectionId": 1096830182,
+      "collectionName": "Drink Champs",
+      "description": "N.O.R.E. & DJ EFN are the Drink Champs. In this episode the Champs chop it up with the legendary Luenell!Luenell shares stories of her career, her passion for comedy, working with Rihanna and Savage X Fenty and much much more! Lots of great stories that you don’t want to miss!!Make some noise!!! 💐💐💐🏆🏆🏆\n\n*Subscribe to Patreon NOW for exclusive content, discount codes, M&G’s + more:  🏆*\n\nhttps://www.patreon.com/drinkchamps\n\n*Listen and subscribe at https://www.drinkchamps.com\n\n Follow Drink Champs:\n\nhttps://www.instagram.com/drinkchamps\n\nhttps://www.twitter.com/drinkchamps\n\nhttps://www.facebook.com/drinkchamps\n\nhttps://www.youtube.com/drinkchamps\n\n DJ EFN\n\nhttps://www.crazyhood.com\n\nhttps://www.instagram.com/whoscrazy\n\nhttps://www.twitter.com/djefn\n\nhttps://www.facebook.com/crazyhoodproductions\n\n N.O.R.E.\n\nhttps://www.instagram.com/therealnoreaga\n\nhttps://www.twitter.com/noreaga\n\n*Check out our Culture Cards NFT project by joining The Culture Cards Discord: 👇*\n\nhttps://discord.gg/theculturecards\nSee omnystudio.com/listener for privacy information.",
+      "releaseDate": "2023-02-10T08:00:00Z",
+      "shortDescription": "",
+      "trackTimeMillis": 10116000,
+      "collectionViewUrl": "https://itunes.apple.com/us/podcast/drink-champs/id1096830182?mt=2&uo=4",
+      "trackId": 1000598993451,
+      "trackName": "Episode 350 w/ Luenell",
+      "artistIds": [
+        284341002
+      ],
+      "feedUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/df6d181a-09ea-4bf2-adc6-ae33005f650d/podcast.rss",
+      "episodeFileExtension": "mp3",
+      "episodeContentType": "audio",
+      "artworkUrl160": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts126/v4/20/d1/04/20d104a9-ffa0-83b4-ea09-004e9ea48c02/mza_3986351716056405447.jpg/160x160bb.jpg",
+      "episodeUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/05278356-0482-4fa6-82f7-afa300fab956/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "previewUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/05278356-0482-4fa6-82f7-afa300fab956/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "artworkUrl60": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts126/v4/20/d1/04/20d104a9-ffa0-83b4-ea09-004e9ea48c02/mza_3986351716056405447.jpg/60x60bb.jpg",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/interval-presents/284341002?mt=2&uo=4",
+      "contentAdvisoryRating": "Explicit",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/episode-350-w-luenell/id1096830182?i=1000598993451&uo=4",
+      "country": "USA",
+      "genres": [
+        {
+          "name": "Music",
+          "id": "1310"
+        }
+      ],
+      "episodeGuid": "05278356-0482-4fa6-82f7-afa300fab956",
+      "kind": "podcast-episode",
+      "wrapperType": "podcastEpisode"
+    },
+    {
+      "artworkUrl600": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2d/d7/fb/2dd7fbb4-2785-0ebd-548a-ed18e3e32f84/mza_18209096644027179754.jpg/600x600bb.jpg",
+      "closedCaptioning": "none",
+      "collectionId": 1096830182,
+      "collectionName": "Drink Champs",
+      "description": "N.O.R.E. & DJ EFN are the Drink Champs. In this episode the Champs chop it up with T.I., Terrence J and Joseph Sikora! Starring in the recently released horror film “FEAR” T.I., Terrence J and Joseph Sikora are here for a good time! The guys share stories from their individual careers, their experinces filming “FEAR” and much much more! Lots of great stories that you don’t want to miss!!Make some noise!!! 💐💐💐🏆🏆🏆\n\n*Subscribe to Patreon NOW for exclusive content, discount codes, M&G’s + more:  🏆*\n\nhttps://www.patreon.com/drinkchamps\n\n*Listen and subscribe at https://www.drinkchamps.com\n\n Follow Drink Champs:\n\nhttps://www.instagram.com/drinkchamps\n\nhttps://www.twitter.com/drinkchamps\n\nhttps://www.facebook.com/drinkchamps\n\nhttps://www.youtube.com/drinkchamps\n\n DJ EFN\n\nhttps://www.crazyhood.com\n\nhttps://www.instagram.com/whoscrazy\n\nhttps://www.twitter.com/djefn\n\nhttps://www.facebook.com/crazyhoodproductions\n\n N.O.R.E.\n\nhttps://www.instagram.com/therealnoreaga\n\nhttps://www.twitter.com/noreaga\n\n*Check out our Culture Cards NFT project by joining The Culture Cards Discord: 👇*\n\nhttps://discord.gg/theculturecards\nSee omnystudio.com/listener for privacy information.",
+      "releaseDate": "2023-02-03T08:00:00Z",
+      "shortDescription": "",
+      "trackTimeMillis": 8223000,
+      "collectionViewUrl": "https://itunes.apple.com/us/podcast/drink-champs/id1096830182?mt=2&uo=4",
+      "trackId": 1000597832947,
+      "trackName": "Episode 349 w/ T.I., Terrence J and Joseph Sikora (Movie cast of “FEAR”)",
+      "artistIds": [
+        284341002
+      ],
+      "feedUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/df6d181a-09ea-4bf2-adc6-ae33005f650d/podcast.rss",
+      "episodeFileExtension": "mp3",
+      "episodeContentType": "audio",
+      "artworkUrl160": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2d/d7/fb/2dd7fbb4-2785-0ebd-548a-ed18e3e32f84/mza_18209096644027179754.jpg/160x160bb.jpg",
+      "episodeUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/955eec29-182c-453c-bdc2-af9d010bcea2/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "previewUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/955eec29-182c-453c-bdc2-af9d010bcea2/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "artworkUrl60": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2d/d7/fb/2dd7fbb4-2785-0ebd-548a-ed18e3e32f84/mza_18209096644027179754.jpg/60x60bb.jpg",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/interval-presents/284341002?mt=2&uo=4",
+      "contentAdvisoryRating": "Explicit",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/episode-349-w-t-i-terrence-j-and-joseph-sikora-movie/id1096830182?i=1000597832947&uo=4",
+      "country": "USA",
+      "genres": [
+        {
+          "name": "Music",
+          "id": "1310"
+        }
+      ],
+      "episodeGuid": "955eec29-182c-453c-bdc2-af9d010bcea2",
+      "kind": "podcast-episode",
+      "wrapperType": "podcastEpisode"
+    },
+    {
+      "artworkUrl600": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts116/v4/24/05/f0/2405f04e-6bad-f863-70fe-fdc6fb4ca151/mza_12674787786719608653.jpg/600x600bb.jpg",
+      "closedCaptioning": "none",
+      "collectionId": 1096830182,
+      "collectionName": "Drink Champs",
+      "description": "N.O.R.E. & DJ EFN are the Drink Champs. In this episode the Champs chop it up with My Expert Opinion! Math Hoffa, Mr. Mecc, Sean Bigga & Michael Smith-Baker talk careers, battle rap and much more! Lots of great stories that you don’t want to miss!!Make some noise!!! 💐💐💐🏆🏆🏆\n\nMake some noise!!! 💐💐💐🏆🏆🏆\n\n*Subscribe to Patreon NOW for exclusive content, discount codes, M&G’s + more:  🏆*\n\nhttps://www.patreon.com/drinkchamps\n\n*Listen and subscribe at https://www.drinkchamps.com\n\n Follow Drink Champs:\n\nhttps://www.instagram.com/drinkchamps\n\nhttps://www.twitter.com/drinkchamps\n\nhttps://www.facebook.com/drinkchamps\n\nhttps://www.youtube.com/drinkchamps\n\n DJ EFN\n\nhttps://www.crazyhood.com\n\nhttps://www.instagram.com/whoscrazy\n\nhttps://www.twitter.com/djefn\n\nhttps://www.facebook.com/crazyhoodproductions\n\n N.O.R.E.\n\nhttps://www.instagram.com/therealnoreaga\n\nhttps://www.twitter.com/noreaga\n\n*Check out our Culture Cards NFT project by joining The Culture Cards Discord: 👇*\n\nhttps://discord.gg/theculturecards\nSee omnystudio.com/listener for privacy information.",
+      "releaseDate": "2023-01-27T08:00:00Z",
+      "shortDescription": "",
+      "trackTimeMillis": 10881000,
+      "collectionViewUrl": "https://itunes.apple.com/us/podcast/drink-champs/id1096830182?mt=2&uo=4",
+      "trackId": 1000596871596,
+      "trackName": "Episode 348 w/ My Expert Opinion",
+      "artistIds": [
+        284341002
+      ],
+      "feedUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/df6d181a-09ea-4bf2-adc6-ae33005f650d/podcast.rss",
+      "episodeFileExtension": "mp3",
+      "episodeContentType": "audio",
+      "artworkUrl160": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts116/v4/24/05/f0/2405f04e-6bad-f863-70fe-fdc6fb4ca151/mza_12674787786719608653.jpg/160x160bb.jpg",
+      "episodeUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/0c49f38b-632c-4f63-838e-af95010a5c6c/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "previewUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/0c49f38b-632c-4f63-838e-af95010a5c6c/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "artworkUrl60": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts116/v4/24/05/f0/2405f04e-6bad-f863-70fe-fdc6fb4ca151/mza_12674787786719608653.jpg/60x60bb.jpg",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/interval-presents/284341002?mt=2&uo=4",
+      "contentAdvisoryRating": "Explicit",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/episode-348-w-my-expert-opinion/id1096830182?i=1000596871596&uo=4",
+      "country": "USA",
+      "genres": [
+        {
+          "name": "Music",
+          "id": "1310"
+        }
+      ],
+      "episodeGuid": "0c49f38b-632c-4f63-838e-af95010a5c6c",
+      "kind": "podcast-episode",
+      "wrapperType": "podcastEpisode"
+    },
+    {
+      "artworkUrl600": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts113/v4/40/7c/f8/407cf85e-d530-a278-20f0-6ab70343d505/mza_16740295589263874165.jpg/600x600bb.jpg",
+      "closedCaptioning": "none",
+      "collectionId": 1096830182,
+      "collectionName": "Drink Champs",
+      "description": "N.O.R.E. & DJ EFN are the Drink Champs. In this episode the Champs chop it up with the legendary JT Money.\n\nFrom the almighty Poison Clan, JT Money shares stories about his journey & career.\n\nJT talks about the early days of Poison Clan, connecting with Uncle Luke, meeting with Tupac and much much more!\n\nLots of great stories that you don’t want to miss!!\n\nMake some noise!!! 💐💐💐🏆🏆🏆\n\n*Subscribe to Patreon NOW for exclusive content, discount codes, M&G’s + more:  🏆*\n\nhttps://www.patreon.com/drinkchamps\n\n \n\n*Listen and subscribe at https://www.drinkchamps.com\n\n Follow Drink Champs:\n\nhttps://www.instagram.com/drinkchamps\n\nhttps://www.twitter.com/drinkchamps\n\nhttps://www.facebook.com/drinkchamps\n\nhttps://www.youtube.com/drinkchamps\n\n DJ EFN\n\nhttps://www.crazyhood.com\n\nhttps://www.instagram.com/whoscrazy\n\nhttps://www.twitter.com/djefn\n\nhttps://www.facebook.com/crazyhoodproductions\n\n N.O.R.E.\n\nhttps://www.instagram.com/therealnoreaga\n\nhttps://www.twitter.com/noreaga\n\n*Check out our Culture Cards NFT project by joining The Culture Cards Discord: 👇*\n\nhttps://discord.gg/theculturecards\nSee omnystudio.com/listener for privacy information.",
+      "releaseDate": "2023-01-20T08:00:00Z",
+      "shortDescription": "",
+      "trackTimeMillis": 8992000,
+      "collectionViewUrl": "https://itunes.apple.com/us/podcast/drink-champs/id1096830182?mt=2&uo=4",
+      "trackId": 1000595621367,
+      "trackName": "Episode 347 w/ JT Money",
+      "artistIds": [
+        284341002
+      ],
+      "feedUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/df6d181a-09ea-4bf2-adc6-ae33005f650d/podcast.rss",
+      "episodeFileExtension": "mp3",
+      "episodeContentType": "audio",
+      "artworkUrl160": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts113/v4/40/7c/f8/407cf85e-d530-a278-20f0-6ab70343d505/mza_16740295589263874165.jpg/160x160bb.jpg",
+      "episodeUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/94a8e860-e550-4a00-a4a0-af90000f4690/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "previewUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/94a8e860-e550-4a00-a4a0-af90000f4690/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "artworkUrl60": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts113/v4/40/7c/f8/407cf85e-d530-a278-20f0-6ab70343d505/mza_16740295589263874165.jpg/60x60bb.jpg",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/interval-presents/284341002?mt=2&uo=4",
+      "contentAdvisoryRating": "Explicit",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/episode-347-w-jt-money/id1096830182?i=1000595621367&uo=4",
+      "country": "USA",
+      "genres": [
+        {
+          "name": "Music",
+          "id": "1310"
+        }
+      ],
+      "episodeGuid": "94a8e860-e550-4a00-a4a0-af90000f4690",
+      "kind": "podcast-episode",
+      "wrapperType": "podcastEpisode"
+    },
+    {
+      "artworkUrl600": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/08/c7/80/08c78068-1374-eb04-6d95-127039b0a91b/mza_7951338553730567689.jpg/600x600bb.jpg",
+      "closedCaptioning": "none",
+      "collectionId": 1096830182,
+      "collectionName": "Drink Champs",
+      "description": "N.O.R.E. & DJ EFN are the Drink Champs. In this episode the Champs chop it up with Amber Rose, Murda Mook and Loaded Lux!\n\nCelebrate the holidays with the us & the family for a memorable Holiday episode filmed @Klub24Miami 🔥\n\nLots of great stories that you don’t want to miss!!\n\nMake some noise!!! 💐💐💐🏆🏆🏆\n\n \n\n*Subscribe to Patreon NOW for exclusive content, discount codes, M&G’s + more:  🏆*\n\nhttps://www.patreon.com/drinkchamps\n\n \n\n*Listen and subscribe at https://www.drinkchamps.com\n\n Follow Drink Champs:\n\nhttps://www.instagram.com/drinkchamps\n\nhttps://www.twitter.com/drinkchamps\n\nhttps://www.facebook.com/drinkchamps\n\nhttps://www.youtube.com/drinkchamps\n\n DJ EFN\n\nhttps://www.crazyhood.com\n\nhttps://www.instagram.com/whoscrazy\n\nhttps://www.twitter.com/djefn\n\nhttps://www.facebook.com/crazyhoodproductions\n\n N.O.R.E.\n\nhttps://www.instagram.com/therealnoreaga\n\nhttps://www.twitter.com/noreaga\n\n*Check out our Culture Cards NFT project by joining The Culture Cards Discord: 👇*\n\nhttps://discord.gg/theculturecards\nSee omnystudio.com/listener for privacy information.",
+      "releaseDate": "2022-12-23T11:00:00Z",
+      "shortDescription": "",
+      "trackTimeMillis": 10070000,
+      "collectionViewUrl": "https://itunes.apple.com/us/podcast/drink-champs/id1096830182?mt=2&uo=4",
+      "trackId": 1000591098107,
+      "trackName": "Episode 346 w/ Amber Rose, Murda Mook and Loaded Lux (24K Christmas Special)",
+      "artistIds": [
+        284341002
+      ],
+      "feedUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/df6d181a-09ea-4bf2-adc6-ae33005f650d/podcast.rss",
+      "episodeFileExtension": "mp3",
+      "episodeContentType": "audio",
+      "artworkUrl160": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/08/c7/80/08c78068-1374-eb04-6d95-127039b0a91b/mza_7951338553730567689.jpg/160x160bb.jpg",
+      "episodeUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/bf47ff44-3bba-4f67-8977-af730100e30d/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "previewUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/bf47ff44-3bba-4f67-8977-af730100e30d/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "artworkUrl60": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/08/c7/80/08c78068-1374-eb04-6d95-127039b0a91b/mza_7951338553730567689.jpg/60x60bb.jpg",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/interval-presents/284341002?mt=2&uo=4",
+      "contentAdvisoryRating": "Explicit",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/episode-346-w-amber-rose-murda-mook-and-loaded-lux/id1096830182?i=1000591098107&uo=4",
+      "country": "USA",
+      "genres": [
+        {
+          "name": "Music",
+          "id": "1310"
+        }
+      ],
+      "episodeGuid": "bf47ff44-3bba-4f67-8977-af730100e30d",
+      "kind": "podcast-episode",
+      "wrapperType": "podcastEpisode"
+    },
+    {
+      "artworkUrl600": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/35/16/27/35162761-8c17-427e-f3b6-7d3c35d1e565/mza_11995100628346448301.jpg/600x600bb.jpg",
+      "closedCaptioning": "none",
+      "collectionId": 1096830182,
+      "collectionName": "Drink Champs",
+      "description": "N.O.R.E. & DJ EFN are the Drink Champs. In this episode the Champs chop it up with the one and only Earn Your Leisure and 19KEYS!\n\nRashad Bilal and Troy Millings (of Earn Your Leisure) and 19KEYS join us for an episode of financial enlightenment!\n\nThe guys talk about the importance of having a network, financial literacy, stock market and much much more!\n\nLots of great stories that you don’t want to miss!!\n\nMake some noise!!! 💐💐💐🏆🏆🏆\n\n \n\n*Subscribe to Patreon NOW for exclusive content, discount codes, M&G’s + more:  🏆*\n\nhttps://www.patreon.com/drinkchamps\n\n \n\n*Listen and subscribe at https://www.drinkchamps.com\n\n Follow Drink Champs:\n\nhttps://www.instagram.com/drinkchamps\n\nhttps://www.twitter.com/drinkchamps\n\nhttps://www.facebook.com/drinkchamps\n\nhttps://www.youtube.com/drinkchamps\n\n DJ EFN\n\nhttps://www.crazyhood.com\n\nhttps://www.instagram.com/whoscrazy\n\nhttps://www.twitter.com/djefn\n\nhttps://www.facebook.com/crazyhoodproductions\n\n N.O.R.E.\n\nhttps://www.instagram.com/therealnoreaga\n\nhttps://www.twitter.com/noreaga\n\n \n\n*Check out our Culture Cards NFT project by joining The Culture Cards Discord: 👇*\n\nhttps://discord.gg/theculturecards\nSee omnystudio.com/listener for privacy information.",
+      "releaseDate": "2022-12-16T12:00:00Z",
+      "shortDescription": "",
+      "trackTimeMillis": 15876000,
+      "collectionViewUrl": "https://itunes.apple.com/us/podcast/drink-champs/id1096830182?mt=2&uo=4",
+      "trackId": 1000590387486,
+      "trackName": "Episode 345 w/ Earn Your Leisure and 19KEYS",
+      "artistIds": [
+        284341002
+      ],
+      "feedUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/df6d181a-09ea-4bf2-adc6-ae33005f650d/podcast.rss",
+      "episodeFileExtension": "mp3",
+      "episodeContentType": "audio",
+      "artworkUrl160": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/35/16/27/35162761-8c17-427e-f3b6-7d3c35d1e565/mza_11995100628346448301.jpg/160x160bb.jpg",
+      "episodeUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/6e1dc94d-0941-4d3d-af1a-af6d000c6d3c/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "previewUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/6e1dc94d-0941-4d3d-af1a-af6d000c6d3c/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "artworkUrl60": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/35/16/27/35162761-8c17-427e-f3b6-7d3c35d1e565/mza_11995100628346448301.jpg/60x60bb.jpg",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/interval-presents/284341002?mt=2&uo=4",
+      "contentAdvisoryRating": "Explicit",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/episode-345-w-earn-your-leisure-and-19keys/id1096830182?i=1000590387486&uo=4",
+      "country": "USA",
+      "genres": [
+        {
+          "name": "Music",
+          "id": "1310"
+        }
+      ],
+      "episodeGuid": "6e1dc94d-0941-4d3d-af1a-af6d000c6d3c",
+      "kind": "podcast-episode",
+      "wrapperType": "podcastEpisode"
+    },
+    {
+      "artworkUrl600": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts113/v4/9f/9f/3d/9f9f3d59-e221-66f3-457b-f71eed3517ec/mza_7008881149463769807.jpg/600x600bb.jpg",
+      "closedCaptioning": "none",
+      "collectionId": 1096830182,
+      "collectionName": "Drink Champs",
+      "description": "N.O.R.E. & DJ EFN are the Drink Champs. In this episode the Champs are hanging out at the StockX Golf Invitational sponsored by D'usse!\n\nWe chop it up with Nigel Sylvester, Steelo Brim, JR Smith and Ben Baller!\n\nLots of great stories that you don’t want to miss!!\n\nMake some noise!!! 💐💐💐🏆🏆🏆\n\n \n\n*Subscribe to Patreon NOW for exclusive content, discount codes, M&G’s + more:  🏆*\n\nhttps://www.patreon.com/drinkchamps\n\n \n\n*Listen and subscribe at https://www.drinkchamps.com\n\n Follow Drink Champs:\n\nhttps://www.instagram.com/drinkchamps\n\nhttps://www.twitter.com/drinkchamps\n\nhttps://www.facebook.com/drinkchamps\n\nhttps://www.youtube.com/drinkchamps\n\n DJ EFN\n\nhttps://www.crazyhood.com\n\nhttps://www.instagram.com/whoscrazy\n\nhttps://www.twitter.com/djefn\n\nhttps://www.facebook.com/crazyhoodproductions\n\n N.O.R.E.\n\nhttps://www.instagram.com/therealnoreaga\n\nhttps://www.twitter.com/noreaga\n\n \n\n*Check out our Culture Cards NFT project by joining The Culture Cards Discord: 👇*\n\nhttps://discord.gg/theculturecards\n\n \nSee omnystudio.com/listener for privacy information.",
+      "releaseDate": "2022-12-09T11:00:00Z",
+      "shortDescription": "",
+      "trackTimeMillis": 4568000,
+      "collectionViewUrl": "https://itunes.apple.com/us/podcast/drink-champs/id1096830182?mt=2&uo=4",
+      "trackId": 1000589583477,
+      "trackName": "Episode 344 “StockX Golf Invitational”",
+      "artistIds": [
+        284341002
+      ],
+      "feedUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/df6d181a-09ea-4bf2-adc6-ae33005f650d/podcast.rss",
+      "episodeFileExtension": "mp3",
+      "episodeContentType": "audio",
+      "artworkUrl160": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts113/v4/9f/9f/3d/9f9f3d59-e221-66f3-457b-f71eed3517ec/mza_7008881149463769807.jpg/160x160bb.jpg",
+      "episodeUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/f700ce8f-b8d4-41c1-9199-af66000ef922/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "previewUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/f700ce8f-b8d4-41c1-9199-af66000ef922/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "artworkUrl60": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts113/v4/9f/9f/3d/9f9f3d59-e221-66f3-457b-f71eed3517ec/mza_7008881149463769807.jpg/60x60bb.jpg",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/interval-presents/284341002?mt=2&uo=4",
+      "contentAdvisoryRating": "Explicit",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/episode-344-stockx-golf-invitational/id1096830182?i=1000589583477&uo=4",
+      "country": "USA",
+      "genres": [
+        {
+          "name": "Music",
+          "id": "1310"
+        }
+      ],
+      "episodeGuid": "f700ce8f-b8d4-41c1-9199-af66000ef922",
+      "kind": "podcast-episode",
+      "wrapperType": "podcastEpisode"
+    },
+    {
+      "artworkUrl600": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts123/v4/e5/21/25/e5212588-8809-d3e7-50ba-2186ec3de4ae/mza_16615873152418691079.jpg/600x600bb.jpg",
+      "closedCaptioning": "none",
+      "collectionId": 1096830182,
+      "collectionName": "Drink Champs",
+      "description": "N.O.R.E. & DJ EFN are the Drink Champs. In this episode we chop it up with the one and only Rowdy Rebel!\n\nRowdy joins us and shares his journey. Rowdy shares stories of meeting Fat Joe, being a sports fan, and willing to go 1 on 1 verse Drake, Durk or Jim Jones in a basketball game! 😆 🏀 \n\nLots of great stories that you don’t want to miss!!\n\nMake some noise for Rowdy Rebel!!! 💐💐💐🏆🏆🏆\n\n \n\n*Subscribe to Patreon NOW for exclusive content, discount codes, M&G’s + more:  🏆*\n\nhttps://www.patreon.com/drinkchamps\n\n \n\n*Listen and subscribe at https://www.drinkchamps.com\n\n Follow Drink Champs:\n\nhttps://www.instagram.com/drinkchamps\n\nhttps://www.twitter.com/drinkchamps\n\nhttps://www.facebook.com/drinkchamps\n\nhttps://www.youtube.com/drinkchamps\n\n DJ EFN\n\nhttps://www.crazyhood.com\n\nhttps://www.instagram.com/whoscrazy\n\nhttps://www.twitter.com/djefn\n\nhttps://www.facebook.com/crazyhoodproductions\n\n N.O.R.E.\n\nhttps://www.instagram.com/therealnoreaga\n\nhttps://www.twitter.com/noreaga\n\n*Check out our Culture Cards NFT project by joining The Culture Cards Discord: 👇*\n\nhttps://discord.gg/theculturecards\nSee omnystudio.com/listener for privacy information.",
+      "releaseDate": "2022-12-02T11:00:00Z",
+      "shortDescription": "",
+      "trackTimeMillis": 8038000,
+      "collectionViewUrl": "https://itunes.apple.com/us/podcast/drink-champs/id1096830182?mt=2&uo=4",
+      "trackId": 1000588483610,
+      "trackName": "Episode 343 w/ Rowdy Rebel",
+      "artistIds": [
+        284341002
+      ],
+      "feedUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/df6d181a-09ea-4bf2-adc6-ae33005f650d/podcast.rss",
+      "episodeFileExtension": "mp3",
+      "episodeContentType": "audio",
+      "artworkUrl160": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts123/v4/e5/21/25/e5212588-8809-d3e7-50ba-2186ec3de4ae/mza_16615873152418691079.jpg/160x160bb.jpg",
+      "episodeUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/73fb0b42-54dd-418c-b2ab-af5e00e9e970/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "previewUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/73fb0b42-54dd-418c-b2ab-af5e00e9e970/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "artworkUrl60": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts123/v4/e5/21/25/e5212588-8809-d3e7-50ba-2186ec3de4ae/mza_16615873152418691079.jpg/60x60bb.jpg",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/interval-presents/284341002?mt=2&uo=4",
+      "contentAdvisoryRating": "Explicit",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/episode-343-w-rowdy-rebel/id1096830182?i=1000588483610&uo=4",
+      "country": "USA",
+      "genres": [
+        {
+          "name": "Music",
+          "id": "1310"
+        }
+      ],
+      "episodeGuid": "73fb0b42-54dd-418c-b2ab-af5e00e9e970",
+      "kind": "podcast-episode",
+      "wrapperType": "podcastEpisode"
+    },
+    {
+      "artworkUrl600": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/fd/1f/76/fd1f763c-2650-df0b-3252-c0198babb388/mza_7860348482437061459.jpg/600x600bb.jpg",
+      "closedCaptioning": "none",
+      "collectionId": 1096830182,
+      "collectionName": "Drink Champs",
+      "description": "N.O.R.E. & DJ EFN are the Drink Champs. In this episode we chop it up with the one and only Bill Bellamy! \n\nBill joins us for a great convo as he shares his journey, stories from the classic movie “How To Be A Player”, his time on MTV and much much more!\n\nLots of great topics that you don’t want to miss!!\n\nMake some noise for Bill Bellamy!!! 💐💐💐🏆🏆🏆\n\n \n\n*Subscribe to Patreon NOW for exclusive content, discount codes, M&G’s + more:  🏆*\n\nhttps://www.patreon.com/drinkchamps\n\n \n\n*Listen and subscribe at https://www.drinkchamps.com\n\n Follow Drink Champs:\n\nhttps://www.instagram.com/drinkchamps\n\nhttps://www.twitter.com/drinkchamps\n\nhttps://www.facebook.com/drinkchamps\n\nhttps://www.youtube.com/drinkchamps\n\n DJ EFN\n\nhttps://www.crazyhood.com\n\nhttps://www.instagram.com/whoscrazy\n\nhttps://www.twitter.com/djefn\n\nhttps://www.facebook.com/crazyhoodproductions\n\n N.O.R.E.\n\nhttps://www.instagram.com/therealnoreaga\n\nhttps://www.twitter.com/noreaga\n\n \n\n*Check out our Culture Cards NFT project by joining The Culture Cards Discord: 👇*\n\nhttps://discord.gg/theculturecards\nSee omnystudio.com/listener for privacy information.",
+      "releaseDate": "2022-11-25T11:00:00Z",
+      "shortDescription": "",
+      "trackTimeMillis": 8884000,
+      "collectionViewUrl": "https://itunes.apple.com/us/podcast/drink-champs/id1096830182?mt=2&uo=4",
+      "trackId": 1000587474083,
+      "trackName": "Episode 342 w/ Bill Bellamy",
+      "artistIds": [
+        284341002
+      ],
+      "feedUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/df6d181a-09ea-4bf2-adc6-ae33005f650d/podcast.rss",
+      "episodeFileExtension": "mp3",
+      "episodeContentType": "audio",
+      "artworkUrl160": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/fd/1f/76/fd1f763c-2650-df0b-3252-c0198babb388/mza_7860348482437061459.jpg/160x160bb.jpg",
+      "episodeUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/c5af1d76-dacf-4090-aa20-af560036da54/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "previewUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/c5af1d76-dacf-4090-aa20-af560036da54/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "artworkUrl60": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/fd/1f/76/fd1f763c-2650-df0b-3252-c0198babb388/mza_7860348482437061459.jpg/60x60bb.jpg",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/interval-presents/284341002?mt=2&uo=4",
+      "contentAdvisoryRating": "Explicit",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/episode-342-w-bill-bellamy/id1096830182?i=1000587474083&uo=4",
+      "country": "USA",
+      "genres": [
+        {
+          "name": "Music",
+          "id": "1310"
+        }
+      ],
+      "episodeGuid": "c5af1d76-dacf-4090-aa20-af560036da54",
+      "kind": "podcast-episode",
+      "wrapperType": "podcastEpisode"
+    },
+    {
+      "artworkUrl600": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts113/v4/49/f7/a1/49f7a1f3-320c-2f23-b181-8824c545c249/mza_461422989268433039.jpg/600x600bb.jpg",
+      "closedCaptioning": "none",
+      "collectionId": 1096830182,
+      "collectionName": "Drink Champs",
+      "description": "N.O.R.E. & DJ EFN are the Drink Champs. In this episode we chop it up with the one and only Michael Eric Dyson!\n\nMichael Eric Dyson shares his story as an ordained minister, American academic, author, professor and more.\n\nListen as we discuss topics about poverty, economic policies, racism, and much much more!\n\nLots of great topics that you don’t want to miss!!\n\nMake some noise for Michael Eric Dyson!!! 💐💐💐🏆🏆🏆\n\n \n\n*Subscribe to Patreon NOW for exclusive content, discount codes, M&G’s + more:  🏆*\n\nhttps://www.patreon.com/drinkchamps\n\n \n\n*Listen and subscribe at https://www.drinkchamps.com\n\n Follow Drink Champs:\n\nhttps://www.instagram.com/drinkchamps\n\nhttps://www.twitter.com/drinkchamps\n\nhttps://www.facebook.com/drinkchamps\n\nhttps://www.youtube.com/drinkchamps\n\n DJ EFN\n\nhttps://www.crazyhood.com\n\nhttps://www.instagram.com/whoscrazy\n\nhttps://www.twitter.com/djefn\n\nhttps://www.facebook.com/crazyhoodproductions\n\n N.O.R.E.\n\nhttps://www.instagram.com/therealnoreaga\n\nhttps://www.twitter.com/noreaga\n\n \n\n*Check out our Culture Cards NFT project by joining The Culture Cards Discord: 👇*\n\nhttps://discord.gg/theculturecards\nSee omnystudio.com/listener for privacy information.",
+      "releaseDate": "2022-11-18T10:30:00Z",
+      "shortDescription": "",
+      "trackTimeMillis": 9916000,
+      "collectionViewUrl": "https://itunes.apple.com/us/podcast/drink-champs/id1096830182?mt=2&uo=4",
+      "trackId": 1000586693128,
+      "trackName": "Episode 341 w/ Michael Eric Dyson",
+      "artistIds": [
+        284341002
+      ],
+      "feedUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/df6d181a-09ea-4bf2-adc6-ae33005f650d/podcast.rss",
+      "episodeFileExtension": "mp3",
+      "episodeContentType": "audio",
+      "artworkUrl160": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts113/v4/49/f7/a1/49f7a1f3-320c-2f23-b181-8824c545c249/mza_461422989268433039.jpg/160x160bb.jpg",
+      "episodeUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/5c97a681-0941-42f3-a696-af500151f3e1/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "previewUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/5c97a681-0941-42f3-a696-af500151f3e1/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "artworkUrl60": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts113/v4/49/f7/a1/49f7a1f3-320c-2f23-b181-8824c545c249/mza_461422989268433039.jpg/60x60bb.jpg",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/interval-presents/284341002?mt=2&uo=4",
+      "contentAdvisoryRating": "Explicit",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/episode-341-w-michael-eric-dyson/id1096830182?i=1000586693128&uo=4",
+      "country": "USA",
+      "genres": [
+        {
+          "name": "Music",
+          "id": "1310"
+        }
+      ],
+      "episodeGuid": "5c97a681-0941-42f3-a696-af500151f3e1",
+      "kind": "podcast-episode",
+      "wrapperType": "podcastEpisode"
+    },
+    {
+      "artworkUrl600": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/94/a9/c9/94a9c99c-2025-b47f-ea96-d0f7ca9e2b40/mza_29106051191354682.jpg/600x600bb.jpg",
+      "closedCaptioning": "none",
+      "collectionId": 1096830182,
+      "collectionName": "Drink Champs",
+      "description": "N.O.R.E. & DJ EFN are the Drink Champs. In this episode we chop it up with the one and only Bobby Shmurda!\n\nBobby joins us and shares his journey in music. With its highs and lows, Bobby shares stories about his career, serving time in prison, making hit records and much much more!\n\nLots of great stories that you don’t want to miss!!\n\nMake some noise!!! 💐💐💐🏆🏆🏆\n\n \n\n*Subscribe to Patreon NOW for exclusive content, discount codes, M&G’s + more:  🏆*\n\nhttps://www.patreon.com/drinkchamps\n\n \n\n*Listen and subscribe at https://www.drinkchamps.com\n\n Follow Drink Champs:\n\nhttps://www.instagram.com/drinkchamps\n\nhttps://www.twitter.com/drinkchamps\n\nhttps://www.facebook.com/drinkchamps\n\nhttps://www.youtube.com/drinkchamps\n\n DJ EFN\n\nhttps://www.crazyhood.com\n\nhttps://www.instagram.com/whoscrazy\n\nhttps://www.twitter.com/djefn\n\nhttps://www.facebook.com/crazyhoodproductions\n\n N.O.R.E.\n\nhttps://www.instagram.com/therealnoreaga\n\nhttps://www.twitter.com/noreaga\n\n \n\n*Check out our Culture Cards NFT project by joining The Culture Cards Discord: 👇*\n\nhttps://discord.gg/theculturecards\nSee omnystudio.com/listener for privacy information.",
+      "releaseDate": "2022-11-11T11:00:00Z",
+      "shortDescription": "",
+      "trackTimeMillis": 9682000,
+      "collectionViewUrl": "https://itunes.apple.com/us/podcast/drink-champs/id1096830182?mt=2&uo=4",
+      "trackId": 1000585861192,
+      "trackName": "Episode 340 w/ Bobby Shmurda",
+      "artistIds": [
+        284341002
+      ],
+      "feedUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/df6d181a-09ea-4bf2-adc6-ae33005f650d/podcast.rss",
+      "episodeFileExtension": "mp3",
+      "episodeContentType": "audio",
+      "artworkUrl160": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/94/a9/c9/94a9c99c-2025-b47f-ea96-d0f7ca9e2b40/mza_29106051191354682.jpg/160x160bb.jpg",
+      "episodeUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/83d0a685-ee8c-426c-8054-af49018a9af1/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "previewUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/83d0a685-ee8c-426c-8054-af49018a9af1/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "artworkUrl60": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/94/a9/c9/94a9c99c-2025-b47f-ea96-d0f7ca9e2b40/mza_29106051191354682.jpg/60x60bb.jpg",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/interval-presents/284341002?mt=2&uo=4",
+      "contentAdvisoryRating": "Explicit",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/episode-340-w-bobby-shmurda/id1096830182?i=1000585861192&uo=4",
+      "country": "USA",
+      "genres": [
+        {
+          "name": "Music",
+          "id": "1310"
+        }
+      ],
+      "episodeGuid": "83d0a685-ee8c-426c-8054-af49018a9af1",
+      "kind": "podcast-episode",
+      "wrapperType": "podcastEpisode"
+    },
+    {
+      "artworkUrl600": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/94/27/6a/94276a87-a3c9-0fe6-af2d-587cf5f08420/mza_13282111597492911256.jpg/600x600bb.jpg",
+      "closedCaptioning": "none",
+      "collectionId": 1096830182,
+      "collectionName": "Drink Champs",
+      "description": "N.O.R.E. & DJ EFN are the Drink Champs. In this episode we chop it up with Mr. November himself, Derek Jeter! \n\nCaptain Clutch joins us as he shares stories of his Hall of Fame career.\n\nThe 5x World Series Champion spent his entire 20 year career with the NY Yankees. Jeter shares stories of the 1998 Yankees, his relationship with A-Rod, being inducted into the HOF and much much more!\n\nLots of great stories that you don’t want to miss!!\n\nMake some noise for Derek Jeter!!! 💐💐💐🏆🏆🏆\n\n \n\n*Subscribe to Patreon NOW for exclusive content, discount codes, M&G’s + more:  🏆*\n\nhttps://www.patreon.com/drinkchamps\n\n \n\n*Listen and subscribe at https://www.drinkchamps.com\n\n Follow Drink Champs:\n\nhttps://www.instagram.com/drinkchamps\n\nhttps://www.twitter.com/drinkchamps\n\nhttps://www.facebook.com/drinkchamps\n\nhttps://www.youtube.com/drinkchamps\n\n DJ EFN\n\nhttps://www.crazyhood.com\n\nhttps://www.instagram.com/whoscrazy\n\nhttps://www.twitter.com/djefn\n\nhttps://www.facebook.com/crazyhoodproductions\n\n N.O.R.E.\n\nhttps://www.instagram.com/therealnoreaga\n\nhttps://www.twitter.com/noreaga\n\n \n\n*Check out our Culture Cards NFT project by joining The Culture Cards Discord: 👇*\n\nhttps://discord.gg/theculturecards\n\n \nSee omnystudio.com/listener for privacy information.",
+      "releaseDate": "2022-11-04T10:00:00Z",
+      "shortDescription": "",
+      "trackTimeMillis": 6806000,
+      "collectionViewUrl": "https://itunes.apple.com/us/podcast/drink-champs/id1096830182?mt=2&uo=4",
+      "trackId": 1000585063505,
+      "trackName": "Episode 339 w/ Derek Jeter",
+      "artistIds": [
+        284341002
+      ],
+      "feedUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/df6d181a-09ea-4bf2-adc6-ae33005f650d/podcast.rss",
+      "episodeFileExtension": "mp3",
+      "episodeContentType": "audio",
+      "artworkUrl160": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/94/27/6a/94276a87-a3c9-0fe6-af2d-587cf5f08420/mza_13282111597492911256.jpg/160x160bb.jpg",
+      "episodeUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/86b45f73-e31b-4640-b8aa-af4201258eda/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "previewUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/86b45f73-e31b-4640-b8aa-af4201258eda/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "artworkUrl60": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/94/27/6a/94276a87-a3c9-0fe6-af2d-587cf5f08420/mza_13282111597492911256.jpg/60x60bb.jpg",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/interval-presents/284341002?mt=2&uo=4",
+      "contentAdvisoryRating": "Explicit",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/episode-339-w-derek-jeter/id1096830182?i=1000585063505&uo=4",
+      "country": "USA",
+      "genres": [
+        {
+          "name": "Music",
+          "id": "1310"
+        }
+      ],
+      "episodeGuid": "86b45f73-e31b-4640-b8aa-af4201258eda",
+      "kind": "podcast-episode",
+      "wrapperType": "podcastEpisode"
+    },
+    {
+      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/50/d8/c6/50d8c6f9-ff11-81a1-9bff-5ea547568226/mza_9118359192078336759.jpg/600x600bb.jpg",
+      "closedCaptioning": "none",
+      "collectionId": 1096830182,
+      "collectionName": "Drink Champs",
+      "description": "N.O.R.E. & DJ EFN are the Drink Champs. In this episode we chop it up with the legend himself and Drink Champs Alumni, Jeezy!\n\nThe Snowman visits once again and brings the SNOFALL.\n\nJeezy shares stories of his journey, giving away hundreds of thousands of mixtapes for free, driving Ferrari’s before the fame, working with Diddy, and much much more! \n\nJeezy also talks about his new project w/ DJ DRAMA titled “SNOFALL”. Available now!\n\nLots of great stories that you don’t want to miss!!\n\nMake some noise for Jeezy!!! 💐💐💐🏆🏆🏆\n\n \n\n*Subscribe to Patreon NOW for exclusive content, discount codes, M&G’s + more:  🏆*\n\nhttps://www.patreon.com/drinkchamps\n\n \n\nListen and subscribe at https://www.drinkchamps.com\n\n Follow Drink Champs:\n\nhttps://www.instagram.com/drinkchamps\n\nhttps://www.twitter.com/drinkchamps\n\nhttps://www.facebook.com/drinkchamps\n\nhttps://www.youtube.com/drinkchamps\n\n DJ EFN\n\nhttps://www.crazyhood.com\n\nhttps://www.instagram.com/whoscrazy\n\nhttps://www.twitter.com/djefn\n\nhttps://www.facebook.com/crazyhoodproductions\n\n N.O.R.E.\n\nhttps://www.instagram.com/therealnoreaga\n\nhttps://www.twitter.com/noreaga\n\n \n\n*Check out our Culture Cards NFT project by joining The Culture Cards Discord: 👇*\n\nhttps://discord.gg/theculturecards\nSee omnystudio.com/listener for privacy information.",
+      "releaseDate": "2022-10-28T10:00:00Z",
+      "shortDescription": "",
+      "trackTimeMillis": 7805000,
+      "collectionViewUrl": "https://itunes.apple.com/us/podcast/drink-champs/id1096830182?mt=2&uo=4",
+      "trackId": 1000584219431,
+      "trackName": "Episode 338 w/ Jeezy",
+      "artistIds": [
+        284341002
+      ],
+      "feedUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/df6d181a-09ea-4bf2-adc6-ae33005f650d/podcast.rss",
+      "episodeFileExtension": "mp3",
+      "episodeContentType": "audio",
+      "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/50/d8/c6/50d8c6f9-ff11-81a1-9bff-5ea547568226/mza_9118359192078336759.jpg/160x160bb.jpg",
+      "episodeUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/5ec96ebb-04fb-47e6-8e8a-af3c002fe509/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "previewUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/5ec96ebb-04fb-47e6-8e8a-af3c002fe509/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/50/d8/c6/50d8c6f9-ff11-81a1-9bff-5ea547568226/mza_9118359192078336759.jpg/60x60bb.jpg",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/interval-presents/284341002?mt=2&uo=4",
+      "contentAdvisoryRating": "Explicit",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/episode-338-w-jeezy/id1096830182?i=1000584219431&uo=4",
+      "country": "USA",
+      "genres": [
+        {
+          "name": "Music",
+          "id": "1310"
+        }
+      ],
+      "episodeGuid": "5ec96ebb-04fb-47e6-8e8a-af3c002fe509",
+      "kind": "podcast-episode",
+      "wrapperType": "podcastEpisode"
+    },
+    {
+      "artworkUrl600": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts123/v4/fc/6e/e0/fc6ee03a-f9cb-073e-0688-26ca6d15d773/mza_5887076058537157240.jpg/600x600bb.jpg",
+      "closedCaptioning": "none",
+      "collectionId": 1096830182,
+      "collectionName": "Drink Champs",
+      "description": "N.O.R.E. & DJ EFN are the Drink Champs. In this episode we chop it up with Quavo and TakeOff!\n\nOriginally from the group Migos - Quavo & TakeOff stop by to share their journey!\n\nThe guys share stories of the Migos culture they’ve built, working with a variety of artists, their new album, VERZUZ and much much more!\n\nLots of great stories that you don’t want to miss!!\n\nMake some noise!!! 💐💐💐🏆🏆🏆\n\n \n\n*Subscribe to Patreon NOW for exclusive content, discount codes, M&G’s + more:  🏆*\n\nhttps://www.patreon.com/drinkchamps\n\n \n\nListen and subscribe at https://www.drinkchamps.com\n\n Follow Drink Champs:\n\nhttps://www.instagram.com/drinkchamps\n\nhttps://www.twitter.com/drinkchamps\n\nhttps://www.facebook.com/drinkchamps\n\nhttps://www.youtube.com/drinkchamps\n\n DJ EFN\n\nhttps://www.crazyhood.com\n\nhttps://www.instagram.com/whoscrazy\n\nhttps://www.twitter.com/djefn\n\nhttps://www.facebook.com/crazyhoodproductions\n\n N.O.R.E.\n\nhttps://www.instagram.com/therealnoreaga\n\nhttps://www.twitter.com/noreaga\n\n \n\n*Check out our Culture Cards NFT project by joining The Culture Cards Discord: 👇*\n\nhttps://discord.gg/theculturecards\nSee omnystudio.com/listener for privacy information.",
+      "releaseDate": "2022-10-21T10:00:00Z",
+      "shortDescription": "",
+      "trackTimeMillis": 8490000,
+      "collectionViewUrl": "https://itunes.apple.com/us/podcast/drink-champs/id1096830182?mt=2&uo=4",
+      "trackId": 1000583411241,
+      "trackName": "Episode 337 w/ Quavo and TakeOff",
+      "artistIds": [
+        284341002
+      ],
+      "feedUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/df6d181a-09ea-4bf2-adc6-ae33005f650d/podcast.rss",
+      "episodeFileExtension": "mp3",
+      "episodeContentType": "audio",
+      "artworkUrl160": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts123/v4/fc/6e/e0/fc6ee03a-f9cb-073e-0688-26ca6d15d773/mza_5887076058537157240.jpg/160x160bb.jpg",
+      "episodeUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/668d52e7-68af-4204-a7d1-af3401833e95/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "previewUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/668d52e7-68af-4204-a7d1-af3401833e95/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "artworkUrl60": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts123/v4/fc/6e/e0/fc6ee03a-f9cb-073e-0688-26ca6d15d773/mza_5887076058537157240.jpg/60x60bb.jpg",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/interval-presents/284341002?mt=2&uo=4",
+      "contentAdvisoryRating": "Explicit",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/episode-337-w-quavo-and-takeoff/id1096830182?i=1000583411241&uo=4",
+      "country": "USA",
+      "genres": [
+        {
+          "name": "Music",
+          "id": "1310"
+        }
+      ],
+      "episodeGuid": "668d52e7-68af-4204-a7d1-af3401833e95",
+      "kind": "podcast-episode",
+      "wrapperType": "podcastEpisode"
+    },
+    {
+      "artworkUrl600": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts123/v4/06/29/df/0629df39-cbaf-53eb-a160-73f99ab14b67/mza_1447941968048745370.jpg/600x600bb.jpg",
+      "closedCaptioning": "none",
+      "collectionId": 1096830182,
+      "collectionName": "Drink Champs",
+      "description": "N.O.R.E. & DJ EFN are the Drink Champs. In this episode we chop it up with the one and only Boosie!\n\nBoosie sits down and shares his journey. He discusses topics about Jeffrey Dahmer, the pros & cons of social media, Kanye wearing a “White Lives Matter” t-shirt and much much more!\n\nLots of great stories that you don’t want to miss!!\n\nMake some noise for Boosie!!! 💐💐💐🏆🏆🏆\n\n*Subscribe to our Patreon NOW for exclusive content, discount codes, M&G’s + more:  🏆*\n\nhttps://www.patreon.com/drinkchamps\n\n \n\nListen and subscribe at https://www.drinkchamps.com\n\n Follow Drink Champs:\n\nhttps://www.instagram.com/drinkchamps\n\nhttps://www.twitter.com/drinkchamps\n\nhttps://www.facebook.com/drinkchamps\n\nhttps://www.youtube.com/drinkchamps\n\n DJ EFN\n\nhttps://www.crazyhood.com\n\nhttps://www.instagram.com/whoscrazy\n\nhttps://www.twitter.com/djefn\n\nhttps://www.facebook.com/crazyhoodproductions\n\n N.O.R.E.\n\nhttps://www.instagram.com/therealnoreaga\n\nhttps://www.twitter.com/noreaga\n\n \n\n*Check out our Culture Cards NFT project by joining The Culture Cards Discord: 👇*\n\nhttps://discord.gg/theculturecards   ||\nSee omnystudio.com/listener for privacy information.",
+      "releaseDate": "2022-10-14T09:30:00Z",
+      "shortDescription": "",
+      "trackTimeMillis": 12017000,
+      "collectionViewUrl": "https://itunes.apple.com/us/podcast/drink-champs/id1096830182?mt=2&uo=4",
+      "trackId": 1000582632961,
+      "trackName": "Episode 336 w/ Boosie",
+      "artistIds": [
+        284341002
+      ],
+      "feedUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/df6d181a-09ea-4bf2-adc6-ae33005f650d/podcast.rss",
+      "episodeFileExtension": "mp3",
+      "episodeContentType": "audio",
+      "artworkUrl160": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts123/v4/06/29/df/0629df39-cbaf-53eb-a160-73f99ab14b67/mza_1447941968048745370.jpg/160x160bb.jpg",
+      "episodeUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/38e76bc7-ca89-4a28-aea4-af2d017b6079/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "previewUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/38e76bc7-ca89-4a28-aea4-af2d017b6079/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "artworkUrl60": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts123/v4/06/29/df/0629df39-cbaf-53eb-a160-73f99ab14b67/mza_1447941968048745370.jpg/60x60bb.jpg",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/interval-presents/284341002?mt=2&uo=4",
+      "contentAdvisoryRating": "Explicit",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/episode-336-w-boosie/id1096830182?i=1000582632961&uo=4",
+      "country": "USA",
+      "genres": [
+        {
+          "name": "Music",
+          "id": "1310"
+        }
+      ],
+      "episodeGuid": "38e76bc7-ca89-4a28-aea4-af2d017b6079",
+      "kind": "podcast-episode",
+      "wrapperType": "podcastEpisode"
+    },
+    {
+      "artworkUrl600": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts113/v4/df/d8/d8/dfd8d858-8cf6-36cf-2426-89aa8ca21644/mza_15851921419242471956.jpg/600x600bb.jpg",
+      "closedCaptioning": "none",
+      "collectionId": 1096830182,
+      "collectionName": "Drink Champs",
+      "description": "N.O.R.E. & DJ EFN are the Drink Champs. In this episode we chop it up with the legend himself and Basketball Hall Of Fame Player, Shaquille O’Neal!\n\nChampion season is here! The 4x NBA Champ and most dominant big man the sport has seen - sits down with the Drink Champs for an episode you don’t want to miss!\n\nShaq shares stories of Stevie Wonder, his NBA career, Kobe Bryant and much much more!\n\nLots of great stories that you don’t want to miss!!\n\nMake some noise for Shaquille O’Neal!!! 💐💐💐🏆🏆🏆\n\nListen and subscribe at https://www.drinkchamps.com\n\n Follow Drink Champs:\n\nhttps://www.instagram.com/drinkchamps\n\nhttps://www.twitter.com/drinkchamps\n\nhttps://www.facebook.com/drinkchamps\n\nhttps://www.youtube.com/drinkchamps\n\n DJ EFN\n\nhttps://www.crazyhood.com\n\nhttps://www.instagram.com/whoscrazy\n\nhttps://www.twitter.com/djefn\n\nhttps://www.facebook.com/crazyhoodproductions\n\n N.O.R.E.\n\nhttps://www.instagram.com/therealnoreaga\n\nhttps://www.twitter.com/noreaga\n\n \n\nCheck out our Culture Cards NFT project by joining The Culture Cards Discord:\n\nLink below 👇\n\nhttps://discord.gg/theculturecards\nSee omnystudio.com/listener for privacy information.",
+      "releaseDate": "2022-10-07T09:30:00Z",
+      "shortDescription": "",
+      "trackTimeMillis": 10305000,
+      "collectionViewUrl": "https://itunes.apple.com/us/podcast/drink-champs/id1096830182?mt=2&uo=4",
+      "trackId": 1000581902724,
+      "trackName": "Episode 335 w/ Shaquille O’Neal",
+      "artistIds": [
+        284341002
+      ],
+      "feedUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/df6d181a-09ea-4bf2-adc6-ae33005f650d/podcast.rss",
+      "episodeFileExtension": "mp3",
+      "episodeContentType": "audio",
+      "artworkUrl160": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts113/v4/df/d8/d8/dfd8d858-8cf6-36cf-2426-89aa8ca21644/mza_15851921419242471956.jpg/160x160bb.jpg",
+      "episodeUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/2a9bc1b2-5175-4994-86da-af260159fb7e/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "previewUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/2a9bc1b2-5175-4994-86da-af260159fb7e/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "artworkUrl60": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts113/v4/df/d8/d8/dfd8d858-8cf6-36cf-2426-89aa8ca21644/mza_15851921419242471956.jpg/60x60bb.jpg",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/interval-presents/284341002?mt=2&uo=4",
+      "contentAdvisoryRating": "Explicit",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/episode-335-w-shaquille-oneal/id1096830182?i=1000581902724&uo=4",
+      "country": "USA",
+      "genres": [
+        {
+          "name": "Music",
+          "id": "1310"
+        }
+      ],
+      "episodeGuid": "2a9bc1b2-5175-4994-86da-af260159fb7e",
+      "kind": "podcast-episode",
+      "wrapperType": "podcastEpisode"
+    },
+    {
+      "artworkUrl600": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts113/v4/1d/20/ff/1d20ff33-e864-5220-c102-97b82d060f65/mza_11202950977008961435.jpg/600x600bb.jpg",
+      "closedCaptioning": "none",
+      "collectionId": 1096830182,
+      "collectionName": "Drink Champs",
+      "description": "N.O.R.E. & DJ EFN are the Drink Champs. In this episode, we travelled to New York for LL Cool J’s “Rock The Bells” festival!! \n\nWe chop it up with a variety of guests like Ice Cube, Onyx (Fredro Starr & Sticky Fingaz), Fat Joe, Peter Gunz, Cipha Sounds, Peter Rosenberg, Lance Un Rivera, Spliff Star & LL Cool J! \n\nLots of great stories that you don’t want to miss!!\n\nMake some noise!!! 💐💐💐🏆🏆🏆\n\nListen and subscribe at https://www.drinkchamps.com\n\n Follow Drink Champs:\n\nhttps://www.instagram.com/drinkchamps\n\nhttps://www.twitter.com/drinkchamps\n\nhttps://www.facebook.com/drinkchamps\n\nhttps://www.youtube.com/drinkchamps\n\n DJ EFN\n\nhttps://www.crazyhood.com\n\nhttps://www.instagram.com/whoscrazy\n\nhttps://www.twitter.com/djefn\n\nhttps://www.facebook.com/crazyhoodproductions\n\n N.O.R.E.\n\nhttps://www.instagram.com/therealnoreaga\n\nhttps://www.twitter.com/noreaga\n\n \n\nCheck out our Culture Cards NFT project by joining The Culture Cards Discord:\n\nLink below 👇\n\nhttps://discord.gg/theculturecards\nSee omnystudio.com/listener for privacy information.",
+      "releaseDate": "2022-09-30T09:30:00Z",
+      "shortDescription": "",
+      "trackTimeMillis": 6351000,
+      "collectionViewUrl": "https://itunes.apple.com/us/podcast/drink-champs/id1096830182?mt=2&uo=4",
+      "trackId": 1000581138326,
+      "trackName": "Episode 334 “Rock The Bells”",
+      "artistIds": [
+        284341002
+      ],
+      "feedUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/df6d181a-09ea-4bf2-adc6-ae33005f650d/podcast.rss",
+      "episodeFileExtension": "mp3",
+      "episodeContentType": "audio",
+      "artworkUrl160": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts113/v4/1d/20/ff/1d20ff33-e864-5220-c102-97b82d060f65/mza_11202950977008961435.jpg/160x160bb.jpg",
+      "episodeUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/419b15fb-52cb-4d7b-9b76-af2000113d83/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "previewUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/419b15fb-52cb-4d7b-9b76-af2000113d83/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "artworkUrl60": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts113/v4/1d/20/ff/1d20ff33-e864-5220-c102-97b82d060f65/mza_11202950977008961435.jpg/60x60bb.jpg",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/interval-presents/284341002?mt=2&uo=4",
+      "contentAdvisoryRating": "Explicit",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/episode-334-rock-the-bells/id1096830182?i=1000581138326&uo=4",
+      "country": "USA",
+      "genres": [
+        {
+          "name": "Music",
+          "id": "1310"
+        }
+      ],
+      "episodeGuid": "419b15fb-52cb-4d7b-9b76-af2000113d83",
+      "kind": "podcast-episode",
+      "wrapperType": "podcastEpisode"
+    },
+    {
+      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/4e/94/b7/4e94b7e6-2baf-e2b3-880b-5c166a3aab8c/mza_13549018975724204208.jpg/600x600bb.jpg",
+      "closedCaptioning": "none",
+      "collectionId": 1096830182,
+      "collectionName": "Drink Champs",
+      "description": "N.O.R.E. & DJ EFN are the Drink Champs. In this episode we chop it up with the one and only Kevin Hart!\n\nThe legend himself sits down with the Champs for a legendary interview! \n\nKevin talks about standup comedy, his movie career, his legendary journey and much much more! \n\nLots of great stories that you don’t want to miss!!\n\nMake some noise for the iconic, Kevin Hart!!! 💐💐💐🏆🏆🏆\n\nListen and subscribe at https://www.drinkchamps.com\n\n Follow Drink Champs:\n\nhttps://www.instagram.com/drinkchamps\n\nhttps://www.twitter.com/drinkchamps\n\nhttps://www.facebook.com/drinkchamps\n\nhttps://www.youtube.com/drinkchamps\n\n DJ EFN\n\nhttps://www.crazyhood.com\n\nhttps://www.instagram.com/whoscrazy\n\nhttps://www.twitter.com/djefn\n\nhttps://www.facebook.com/crazyhoodproductions\n\n N.O.R.E.\n\nhttps://www.instagram.com/therealnoreaga\n\nhttps://www.twitter.com/noreaga\n\n \n\nCheck out our Culture Cards NFT project by joining The Culture Cards Discord:\n\nLink below 👇\n\nhttps://discord.gg/theculturecards\nSee omnystudio.com/listener for privacy information.",
+      "releaseDate": "2022-09-23T09:30:00Z",
+      "shortDescription": "",
+      "trackTimeMillis": 9939000,
+      "collectionViewUrl": "https://itunes.apple.com/us/podcast/drink-champs/id1096830182?mt=2&uo=4",
+      "trackId": 1000580410829,
+      "trackName": "Episode 333 w/ Kevin Hart",
+      "artistIds": [
+        284341002
+      ],
+      "feedUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/df6d181a-09ea-4bf2-adc6-ae33005f650d/podcast.rss",
+      "episodeFileExtension": "mp3",
+      "episodeContentType": "audio",
+      "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/4e/94/b7/4e94b7e6-2baf-e2b3-880b-5c166a3aab8c/mza_13549018975724204208.jpg/160x160bb.jpg",
+      "episodeUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/68711437-285d-408a-be32-af19003092b2/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "previewUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/68711437-285d-408a-be32-af19003092b2/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/4e/94/b7/4e94b7e6-2baf-e2b3-880b-5c166a3aab8c/mza_13549018975724204208.jpg/60x60bb.jpg",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/interval-presents/284341002?mt=2&uo=4",
+      "contentAdvisoryRating": "Explicit",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/episode-333-w-kevin-hart/id1096830182?i=1000580410829&uo=4",
+      "country": "USA",
+      "genres": [
+        {
+          "name": "Music",
+          "id": "1310"
+        }
+      ],
+      "episodeGuid": "68711437-285d-408a-be32-af19003092b2",
+      "kind": "podcast-episode",
+      "wrapperType": "podcastEpisode"
+    },
+    {
+      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5d/31/fe/5d31fee6-3f40-2340-8ab3-9b8486685da6/mza_6190716712538497376.jpg/600x600bb.jpg",
+      "closedCaptioning": "none",
+      "collectionId": 1096830182,
+      "collectionName": "Drink Champs",
+      "description": "N.O.R.E. & DJ EFN are the Drink Champs. In this episode we talk with the one and only Gangsta Boo!\n\nThree 6 Mafia influenced a generation of hip-hop and Gangsta Boo’s lyricism helped the group rise to prominence! Coming from Memphis, TN - Gangsta Boo shares her journey in hip-hop and how she helped utilize the Memphis culture in her sound.\n\nGangsta Boo shares stories of how Three 6 Mafia split, working with 8Ball & MJG and much much more!\n\nLots of great stories that you don’t want to miss!!\n\nMake some noise for Gangsta Boo!!! 💐💐💐🏆🏆🏆\n\nListen and subscribe at https://www.drinkchamps.com\n\n Follow Drink Champs:\n\nhttps://www.instagram.com/drinkchamps\n\nhttps://www.twitter.com/drinkchamps\n\nhttps://www.facebook.com/drinkchamps\n\nhttps://www.youtube.com/drinkchamps\n\n DJ EFN\n\nhttps://www.crazyhood.com\n\nhttps://www.instagram.com/whoscrazy\n\nhttps://www.twitter.com/djefn\n\nhttps://www.facebook.com/crazyhoodproductions\n\n N.O.R.E.\n\nhttps://www.instagram.com/therealnoreaga\n\nhttps://www.twitter.com/noreaga\n\n \n\nCheck out our Culture Cards NFT project by joining The Culture Cards Discord!\n\nLink below 👇:\n\nhttps://discord.gg/theculturecards\nSee omnystudio.com/listener for privacy information.",
+      "releaseDate": "2022-09-16T09:30:00Z",
+      "shortDescription": "",
+      "trackTimeMillis": 10001000,
+      "collectionViewUrl": "https://itunes.apple.com/us/podcast/drink-champs/id1096830182?mt=2&uo=4",
+      "trackId": 1000579670650,
+      "trackName": "Episode 332 w/ Gangsta Boo",
+      "artistIds": [
+        284341002
+      ],
+      "feedUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/df6d181a-09ea-4bf2-adc6-ae33005f650d/podcast.rss",
+      "episodeFileExtension": "mp3",
+      "episodeContentType": "audio",
+      "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5d/31/fe/5d31fee6-3f40-2340-8ab3-9b8486685da6/mza_6190716712538497376.jpg/160x160bb.jpg",
+      "episodeUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/7858dc44-aa37-4e41-ab60-af12003a5457/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "previewUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/7858dc44-aa37-4e41-ab60-af12003a5457/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5d/31/fe/5d31fee6-3f40-2340-8ab3-9b8486685da6/mza_6190716712538497376.jpg/60x60bb.jpg",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/interval-presents/284341002?mt=2&uo=4",
+      "contentAdvisoryRating": "Explicit",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/episode-332-w-gangsta-boo/id1096830182?i=1000579670650&uo=4",
+      "country": "USA",
+      "genres": [
+        {
+          "name": "Music",
+          "id": "1310"
+        }
+      ],
+      "episodeGuid": "7858dc44-aa37-4e41-ab60-af12003a5457",
+      "kind": "podcast-episode",
+      "wrapperType": "podcastEpisode"
+    },
+    {
+      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5f/26/1f/5f261f86-2069-a4fe-3d97-4954a02664c5/mza_10018227404156600868.jpg/600x600bb.jpg",
+      "closedCaptioning": "none",
+      "collectionId": 1096830182,
+      "collectionName": "Drink Champs",
+      "description": "N.O.R.E. & DJ EFN are the Drink Champs. In this episode we chop it up with the one and only Black Star!\n\nThe legendary group Black Star (Yasiin Bey and Talib Kweli) join us for an incredible episode!\n\nBlack Star talks about their new album “No Fear of Time” their hip-hop journey and much more!\n\nComedy icon, Dave Chappelle also joins the conversation!\n\nLots of great stories that you don’t want to miss!!\n\nMake some noise!!! 💐💐💐🏆🏆🏆\n\nListen and subscribe at https://www.drinkchamps.com\n\n Follow Drink Champs:\n\nhttps://www.instagram.com/drinkchamps\n\nhttps://www.twitter.com/drinkchamps\n\nhttps://www.facebook.com/drinkchamps\n\nhttps://www.youtube.com/drinkchamps\n\n DJ EFN\n\nhttps://www.crazyhood.com\n\nhttps://www.instagram.com/whoscrazy\n\nhttps://www.twitter.com/djefn\n\nhttps://www.facebook.com/crazyhoodproductions\n\n N.O.R.E.\n\nhttps://www.instagram.com/therealnoreaga\n\nhttps://www.twitter.com/noreaga\n\n \n\nCheck out our Culture Cards NFT project by\n\nJoining The Culture Cards Discord\n\nLink below 👇\n\nhttps://discord.gg/theculturecards\nSee omnystudio.com/listener for privacy information.",
+      "releaseDate": "2022-09-09T09:50:00Z",
+      "shortDescription": "",
+      "trackTimeMillis": 2754000,
+      "collectionViewUrl": "https://itunes.apple.com/us/podcast/drink-champs/id1096830182?mt=2&uo=4",
+      "trackId": 1000578934623,
+      "trackName": "Episode 331 w/ Black Star featuring Dave Chappelle",
+      "artistIds": [
+        284341002
+      ],
+      "feedUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/df6d181a-09ea-4bf2-adc6-ae33005f650d/podcast.rss",
+      "episodeFileExtension": "mp3",
+      "episodeContentType": "audio",
+      "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5f/26/1f/5f261f86-2069-a4fe-3d97-4954a02664c5/mza_10018227404156600868.jpg/160x160bb.jpg",
+      "episodeUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/63bc86c1-c280-4b96-8ce8-af0a017bd80d/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "previewUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/63bc86c1-c280-4b96-8ce8-af0a017bd80d/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5f/26/1f/5f261f86-2069-a4fe-3d97-4954a02664c5/mza_10018227404156600868.jpg/60x60bb.jpg",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/interval-presents/284341002?mt=2&uo=4",
+      "contentAdvisoryRating": "Explicit",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/episode-331-w-black-star-featuring-dave-chappelle/id1096830182?i=1000578934623&uo=4",
+      "country": "USA",
+      "genres": [
+        {
+          "name": "Music",
+          "id": "1310"
+        }
+      ],
+      "episodeGuid": "63bc86c1-c280-4b96-8ce8-af0a017bd80d",
+      "kind": "podcast-episode",
+      "wrapperType": "podcastEpisode"
+    },
+    {
+      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/53/b3/c9/53b3c9dd-7576-5db9-1371-a54fd70eb1cf/mza_187560120555400241.jpg/600x600bb.jpg",
+      "closedCaptioning": "none",
+      "collectionId": 1096830182,
+      "collectionName": "Drink Champs",
+      "description": "N.O.R.E. & DJ EFN are the Drink Champs. In this episode we talk with the one and only Turk!\n\nTurk shares his journey as he talks about his days with Cash Money Records & part of the super group, Hot Boys w/ Lil Wayne, Juvenile & B.G. \n\nTurks talks about his prison sentence vs time served, how he changed his life and some of the challenges he’s been through his career. \n\nLots of great stories that you don’t want to miss!!\n\nMake some noise for Turk!!! 💐💐💐🏆🏆🏆\n\nListen and subscribe at https://www.drinkchamps.com\n\n Follow Drink Champs:\n\nhttps://www.instagram.com/drinkchamps\n\nhttps://www.twitter.com/drinkchamps\n\nhttps://www.facebook.com/drinkchamps\n\nhttps://www.youtube.com/drinkchamps\n\n DJ EFN\n\nhttps://www.crazyhood.com\n\nhttps://www.instagram.com/whoscrazy\n\nhttps://www.twitter.com/djefn\n\nhttps://www.facebook.com/crazyhoodproductions\n\n N.O.R.E.\n\nhttps://www.instagram.com/therealnoreaga\n\nhttps://www.twitter.com/noreaga\n\n \n\nCheck out our Culture Cards NFT project by\n\nJoining The Culture Cards Discord\n\nLink below 👇\n\nhttps://discord.gg/theculturecards\nSee omnystudio.com/listener for privacy information.",
+      "releaseDate": "2022-09-07T03:55:00Z",
+      "shortDescription": "",
+      "trackTimeMillis": 9026000,
+      "collectionViewUrl": "https://itunes.apple.com/us/podcast/drink-champs/id1096830182?mt=2&uo=4",
+      "trackId": 1000578650217,
+      "trackName": "Episode 330 w/ Turk",
+      "artistIds": [
+        284341002
+      ],
+      "feedUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/df6d181a-09ea-4bf2-adc6-ae33005f650d/podcast.rss",
+      "episodeFileExtension": "mp3",
+      "episodeContentType": "audio",
+      "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/53/b3/c9/53b3c9dd-7576-5db9-1371-a54fd70eb1cf/mza_187560120555400241.jpg/160x160bb.jpg",
+      "episodeUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/ed3adcaf-6c0b-4eda-8404-af0800fd93f8/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "previewUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/ed3adcaf-6c0b-4eda-8404-af0800fd93f8/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/53/b3/c9/53b3c9dd-7576-5db9-1371-a54fd70eb1cf/mza_187560120555400241.jpg/60x60bb.jpg",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/interval-presents/284341002?mt=2&uo=4",
+      "contentAdvisoryRating": "Explicit",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/episode-330-w-turk/id1096830182?i=1000578650217&uo=4",
+      "country": "USA",
+      "genres": [
+        {
+          "name": "Music",
+          "id": "1310"
+        }
+      ],
+      "episodeGuid": "ed3adcaf-6c0b-4eda-8404-af0800fd93f8",
+      "kind": "podcast-episode",
+      "wrapperType": "podcastEpisode"
+    },
+    {
+      "artworkUrl600": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts113/v4/cb/a7/18/cba7186d-3c88-ee38-8352-a2fff5ec82ae/mza_17160551209831247117.jpg/600x600bb.jpg",
+      "closedCaptioning": "none",
+      "collectionId": 1096830182,
+      "collectionName": "Drink Champs",
+      "description": "N.O.R.E. & DJ EFN are the Drink Champs. In this episode we talk with the one and only B2K!\n\nWe are joined by J-Boog (aka Boogie P), Raz-B & Lil’ Fizz as they share the journey of B2K! The guys talk about their hit records, working with artists like Diddy, R.Kelly and more!\n\nThe group also talks about their brotherhood before the fame, their on going issues with Omarion and much much more!\n\nLots of great stories that you don’t want to miss!!\n\nMake some noise for B2K!!! 💐💐💐🏆🏆🏆\n\n \n\nListen and subscribe at https://www.drinkchamps.com\n\n Follow Drink Champs:\n\nhttps://www.instagram.com/drinkchamps\n\nhttps://www.twitter.com/drinkchamps\n\nhttps://www.facebook.com/drinkchamps\n\nhttps://www.youtube.com/drinkchamps\n\n DJ EFN\n\nhttps://www.crazyhood.com\n\nhttps://www.instagram.com/whoscrazy\n\nhttps://www.twitter.com/djefn\n\nhttps://www.facebook.com/crazyhoodproductions\n\n N.O.R.E.\n\nhttps://www.instagram.com/therealnoreaga\n\nhttps://www.twitter.com/noreaga\n\n \n\nCheck out our Culture Cards NFT Project by joining The Culture Cards Discord!\n\nLink below 👇\n\nhttps://discord.gg/theculturecards\nSee omnystudio.com/listener for privacy information.",
+      "releaseDate": "2022-09-02T10:51:44Z",
+      "shortDescription": "",
+      "trackTimeMillis": 12694000,
+      "collectionViewUrl": "https://itunes.apple.com/us/podcast/drink-champs/id1096830182?mt=2&uo=4",
+      "trackId": 1000578156378,
+      "trackName": "Episode 329 w/ B2K",
+      "artistIds": [
+        284341002
+      ],
+      "feedUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/df6d181a-09ea-4bf2-adc6-ae33005f650d/podcast.rss",
+      "episodeFileExtension": "mp3",
+      "episodeContentType": "audio",
+      "artworkUrl160": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts113/v4/cb/a7/18/cba7186d-3c88-ee38-8352-a2fff5ec82ae/mza_17160551209831247117.jpg/160x160bb.jpg",
+      "episodeUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/c5494f5f-c644-4c09-acec-af03015a05c5/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "previewUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/c5494f5f-c644-4c09-acec-af03015a05c5/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "artworkUrl60": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts113/v4/cb/a7/18/cba7186d-3c88-ee38-8352-a2fff5ec82ae/mza_17160551209831247117.jpg/60x60bb.jpg",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/interval-presents/284341002?mt=2&uo=4",
+      "contentAdvisoryRating": "Explicit",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/episode-329-w-b2k/id1096830182?i=1000578156378&uo=4",
+      "country": "USA",
+      "genres": [
+        {
+          "name": "Music",
+          "id": "1310"
+        }
+      ],
+      "episodeGuid": "c5494f5f-c644-4c09-acec-af03015a05c5",
+      "kind": "podcast-episode",
+      "wrapperType": "podcastEpisode"
+    },
+    {
+      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/14/de/dc/14dedc16-bd8f-80ef-69e1-6a90e3f54eab/mza_6931371920482309536.jpg/600x600bb.jpg",
+      "closedCaptioning": "none",
+      "collectionId": 1096830182,
+      "collectionName": "Drink Champs",
+      "description": "N.O.R.E. & DJ EFN are the Drink Champs. In this episode we talk with the one and only Issa Rae!\n\nIssa talks about her journey and her evolution in the entertainment industry. Issa also shares stories of working with Pharrell, receiving the key to her hometown of Inglewood, CA and more!\n\nIssa talks about her critically acclaimed hit TV show “Insecure”, its creation process, and much more!\n\nIssa also talks about her new show “Rap Shit” streaming now on HBO Max!\n\nLots of great stories that you don’t want to miss!!\n\nMake some noise for ISSA RAE!!! 💐💐💐🏆🏆🏆\n\nListen and subscribe at https://www.drinkchamps.com\n\n Follow Drink Champs:\n\nhttps://www.instagram.com/drinkchamps\n\nhttps://www.twitter.com/drinkchamps\n\nhttps://www.facebook.com/drinkchamps\n\nhttps://www.youtube.com/drinkchamps\n\n DJ EFN\n\nhttps://www.crazyhood.com\n\nhttps://www.instagram.com/whoscrazy\n\nhttps://www.twitter.com/djefn\n\nhttps://www.facebook.com/crazyhoodproductions\n\n N.O.R.E.\n\nhttps://www.instagram.com/therealnoreaga\n\nhttps://www.twitter.com/noreaga\n\nCheck out our Culture Cards NFT project by Joining The Culture Cards Discord Link below 👇\n\nhttps://discord.gg/theculturecards\nSee omnystudio.com/listener for privacy information.",
+      "releaseDate": "2022-08-26T09:45:00Z",
+      "shortDescription": "",
+      "trackTimeMillis": 12827000,
+      "collectionViewUrl": "https://itunes.apple.com/us/podcast/drink-champs/id1096830182?mt=2&uo=4",
+      "trackId": 1000577423445,
+      "trackName": "Episode 328 w/ Issa Rae",
+      "artistIds": [
+        284341002
+      ],
+      "feedUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/df6d181a-09ea-4bf2-adc6-ae33005f650d/podcast.rss",
+      "episodeFileExtension": "mp3",
+      "episodeContentType": "audio",
+      "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/14/de/dc/14dedc16-bd8f-80ef-69e1-6a90e3f54eab/mza_6931371920482309536.jpg/160x160bb.jpg",
+      "episodeUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/1126046c-836f-4315-a538-aefc0152afa6/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "previewUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/1126046c-836f-4315-a538-aefc0152afa6/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/14/de/dc/14dedc16-bd8f-80ef-69e1-6a90e3f54eab/mza_6931371920482309536.jpg/60x60bb.jpg",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/interval-presents/284341002?mt=2&uo=4",
+      "contentAdvisoryRating": "Explicit",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/episode-328-w-issa-rae/id1096830182?i=1000577423445&uo=4",
+      "country": "USA",
+      "genres": [
+        {
+          "name": "Music",
+          "id": "1310"
+        }
+      ],
+      "episodeGuid": "1126046c-836f-4315-a538-aefc0152afa6",
+      "kind": "podcast-episode",
+      "wrapperType": "podcastEpisode"
+    },
+    {
+      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/67/01/3b/67013b8a-6166-bf28-ddcb-1cdd4acd2dcc/mza_3674060439690046392.jpg/600x600bb.jpg",
+      "closedCaptioning": "none",
+      "collectionId": 1096830182,
+      "collectionName": "Drink Champs",
+      "description": "N.O.R.E. & DJ EFN are the Drink Champs. In this episode, we chop it up with the one and only DJ KHALED!\n\nDJ Khaled joins us for another legendary interview! Khaled shares stories about his new album “GOD DID” and working with artists like Drake, Lil Baby, Kodak Black, Lil Durk and many more!\n\nKhaled talks to us about his creative process, his journey and what keeps him going after all his success.\n\nLots of great stories that you don’t want to miss!!\n\nRemember, when no one believed in us… GOD DID!\n\nMake some noise for DJ KHALED!!! 💐💐💐🏆🏆🏆\n\nListen and subscribe at http://www.drinkchamps.com\n\n Follow Drink Champs:\n\nhttp://www.instagram.com/drinkchamps\n\nhttp://www.twitter.com/drinkchamps\n\nhttp://www.facebook.com/drinkchamps\n\n DJ EFN\n\nhttp://www.crazyhood.com\n\nhttp://www.instagram.com/whoscrazy\n\nhttp://www.twitter.com/djefn\n\nhttp://www.facebook.com/crazyhoodproductions\n\n N.O.R.E.\n\nhttp://www.instagram.com/therealnoreaga\n\nhttp://www.twitter.com/noreaga\nSee omnystudio.com/listener for privacy information.",
+      "releaseDate": "2022-08-19T10:00:00Z",
+      "shortDescription": "",
+      "trackTimeMillis": 9362000,
+      "collectionViewUrl": "https://itunes.apple.com/us/podcast/drink-champs/id1096830182?mt=2&uo=4",
+      "trackId": 1000576583897,
+      "trackName": "Episode 327 w/ DJ KHALED",
+      "artistIds": [
+        284341002
+      ],
+      "feedUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/df6d181a-09ea-4bf2-adc6-ae33005f650d/podcast.rss",
+      "episodeFileExtension": "mp3",
+      "episodeContentType": "audio",
+      "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/67/01/3b/67013b8a-6166-bf28-ddcb-1cdd4acd2dcc/mza_3674060439690046392.jpg/160x160bb.jpg",
+      "episodeUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/434183d4-3305-4dee-afb8-aef101357a40/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "previewUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/434183d4-3305-4dee-afb8-aef101357a40/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/67/01/3b/67013b8a-6166-bf28-ddcb-1cdd4acd2dcc/mza_3674060439690046392.jpg/60x60bb.jpg",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/interval-presents/284341002?mt=2&uo=4",
+      "contentAdvisoryRating": "Explicit",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/episode-327-w-dj-khaled/id1096830182?i=1000576583897&uo=4",
+      "country": "USA",
+      "genres": [
+        {
+          "name": "Music",
+          "id": "1310"
+        }
+      ],
+      "episodeGuid": "434183d4-3305-4dee-afb8-aef101357a40",
+      "kind": "podcast-episode",
+      "wrapperType": "podcastEpisode"
+    },
+    {
+      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/b1/90/06/b19006f2-6d5c-3d6a-ef12-5158bf787c05/mza_6728464446718987355.jpg/600x600bb.jpg",
+      "closedCaptioning": "none",
+      "collectionId": 1096830182,
+      "collectionName": "Drink Champs",
+      "description": "N.O.R.E. & DJ EFN are the Drink Champs. In this episode we chop it up with the one and only NE-YO! \n\nThe R&B legend joins us for an episode you don’t want to miss. Listen as NE-YO shares his journey, and talks about his come up as an artist and a songwriter.\n\nNE-YO shares stories about working with Beyoncé, Michael Jackson and many more! \n\nGrab on to your fedora and strap in for the ride as NE-YO takes us through an episode that you don’t want to miss! \n\nMake some noise for NE-YO!!! 💐💐💐🏆🏆🏆\n\nListen and subscribe at http://www.drinkchamps.com\n\n Follow Drink Champs:\n\nhttp://www.instagram.com/drinkchamps\n\nhttp://www.twitter.com/drinkchamps\n\nhttp://www.facebook.com/drinkchamps\n\n DJ EFN\n\nhttp://www.crazyhood.com\n\nhttp://www.instagram.com/whoscrazy\n\nhttp://www.twitter.com/djefn\n\nhttp://www.facebook.com/crazyhoodproductions\n\n N.O.R.E.\n\nhttp://www.instagram.com/therealnoreaga\n\nhttp://www.twitter.com/noreaga\nSee omnystudio.com/listener for privacy information.",
+      "releaseDate": "2022-08-12T09:50:00Z",
+      "shortDescription": "",
+      "trackTimeMillis": 12596000,
+      "collectionViewUrl": "https://itunes.apple.com/us/podcast/drink-champs/id1096830182?mt=2&uo=4",
+      "trackId": 1000575862113,
+      "trackName": "Episode 326 w/ NE-YO",
+      "artistIds": [
+        284341002
+      ],
+      "feedUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/df6d181a-09ea-4bf2-adc6-ae33005f650d/podcast.rss",
+      "episodeFileExtension": "mp3",
+      "episodeContentType": "audio",
+      "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/b1/90/06/b19006f2-6d5c-3d6a-ef12-5158bf787c05/mza_6728464446718987355.jpg/160x160bb.jpg",
+      "episodeUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/ed0095a0-31d7-4ee3-8386-aeef00369f4a/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "previewUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/ed0095a0-31d7-4ee3-8386-aeef00369f4a/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/b1/90/06/b19006f2-6d5c-3d6a-ef12-5158bf787c05/mza_6728464446718987355.jpg/60x60bb.jpg",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/interval-presents/284341002?mt=2&uo=4",
+      "contentAdvisoryRating": "Explicit",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/episode-326-w-ne-yo/id1096830182?i=1000575862113&uo=4",
+      "country": "USA",
+      "genres": [
+        {
+          "name": "Music",
+          "id": "1310"
+        }
+      ],
+      "episodeGuid": "ed0095a0-31d7-4ee3-8386-aeef00369f4a",
+      "kind": "podcast-episode",
+      "wrapperType": "podcastEpisode"
+    },
+    {
+      "artworkUrl600": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts113/v4/3e/53/e5/3e53e565-0124-5673-88d9-b5344f80bd0c/mza_7109142345228878175.jpg/600x600bb.jpg",
+      "closedCaptioning": "none",
+      "collectionId": 1096830182,
+      "collectionName": "Drink Champs",
+      "description": "N.O.R.E. & DJ EFN are the Drink Champs. In this episode we chop it up with the one and only Ja Rule & Irv Gotti! \n\nIt’s murdaaaaaa! Ja Rule & Irv Gotti join us to share the Murder Inc story.\n\nJa and Irv shares stories when Murder Inc had the game on lock and much much more! \n\nLots of great stories that you don’t want to miss!!\n\nMake sure to tune into “The Murder Inc Story” August 9th on BET. \n\nMake some noise Ja Rule, Irv Gotti & Murder Inc!!! 💐💐💐🏆🏆🏆\n\nListen and subscribe at http://www.drinkchamps.com\n\n Follow Drink Champs:\n\nhttp://www.instagram.com/drinkchamps\n\nhttp://www.twitter.com/drinkchamps\n\nhttp://www.facebook.com/drinkchamps\n\n DJ EFN\n\nhttp://www.crazyhood.com\n\nhttp://www.instagram.com/whoscrazy\n\nhttp://www.twitter.com/djefn\n\nhttp://www.facebook.com/crazyhoodproductions\n\n N.O.R.E.\n\nhttp://www.instagram.com/therealnoreaga\n\nhttp://www.twitter.com/noreaga\nSee omnystudio.com/listener for privacy information.",
+      "releaseDate": "2022-08-05T10:00:00Z",
+      "shortDescription": "",
+      "trackTimeMillis": 12448000,
+      "collectionViewUrl": "https://itunes.apple.com/us/podcast/drink-champs/id1096830182?mt=2&uo=4",
+      "trackId": 1000575112583,
+      "trackName": "Episode 325 w/ Ja Rule & Irv Gotti",
+      "artistIds": [
+        284341002
+      ],
+      "feedUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/df6d181a-09ea-4bf2-adc6-ae33005f650d/podcast.rss",
+      "episodeFileExtension": "mp3",
+      "episodeContentType": "audio",
+      "artworkUrl160": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts113/v4/3e/53/e5/3e53e565-0124-5673-88d9-b5344f80bd0c/mza_7109142345228878175.jpg/160x160bb.jpg",
+      "episodeUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/76986260-b0db-4e51-a297-aee80023172d/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "previewUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/76986260-b0db-4e51-a297-aee80023172d/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "artworkUrl60": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts113/v4/3e/53/e5/3e53e565-0124-5673-88d9-b5344f80bd0c/mza_7109142345228878175.jpg/60x60bb.jpg",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/interval-presents/284341002?mt=2&uo=4",
+      "contentAdvisoryRating": "Explicit",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/episode-325-w-ja-rule-irv-gotti/id1096830182?i=1000575112583&uo=4",
+      "country": "USA",
+      "genres": [
+        {
+          "name": "Music",
+          "id": "1310"
+        }
+      ],
+      "episodeGuid": "76986260-b0db-4e51-a297-aee80023172d",
+      "kind": "podcast-episode",
+      "wrapperType": "podcastEpisode"
+    },
+    {
+      "artworkUrl600": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts113/v4/82/6d/3a/826d3a85-40ed-9df9-e1f7-df793d0dce2a/mza_14507094754748351400.jpg/600x600bb.jpg",
+      "closedCaptioning": "none",
+      "collectionId": 1096830182,
+      "collectionName": "Drink Champs",
+      "description": "N.O.R.E. & DJ EFN are the Drink Champs. In this episode we chop it up with the legendary Patti LaBelle! \n\nThe Godmother of Soul joins us for a historic episode in Drink Champs history as she shares stories of her iconic career. \n\nWe pulled out the red carpet for Ms Patti LaBelle as she shares stories of her relationship with Aretha Franklin, Luther Vandross, and much much more!\n\nDrink Champs Army - fill your cups up, grab a slice of Patti’s Sweet Potato Pie and get ready for this legendary episode! \n\nLots of great stories that you don’t want to miss!!\n\nMake some noise for one and only Patti LaBelle!!! 💐💐💐🏆🏆🏆\n\n \n\nListen and subscribe at http://www.drinkchamps.com\n\n Follow Drink Champs:\n\nhttp://www.instagram.com/drinkchamps\n\nhttp://www.twitter.com/drinkchamps\n\nhttp://www.facebook.com/drinkchamps\n\n DJ EFN\n\nhttp://www.crazyhood.com\n\nhttp://www.instagram.com/whoscrazy\n\nhttp://www.twitter.com/djefn\n\nhttp://www.facebook.com/crazyhoodproductions\n\n N.O.R.E.\n\nhttp://www.instagram.com/therealnoreaga\n\nhttp://www.twitter.com/noreaga\nSee omnystudio.com/listener for privacy information.",
+      "releaseDate": "2022-07-29T09:50:00Z",
+      "shortDescription": "",
+      "trackTimeMillis": 7732000,
+      "collectionViewUrl": "https://itunes.apple.com/us/podcast/drink-champs/id1096830182?mt=2&uo=4",
+      "trackId": 1000571554638,
+      "trackName": "Episode 324 w/ Patti LaBelle",
+      "artistIds": [
+        284341002
+      ],
+      "feedUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/df6d181a-09ea-4bf2-adc6-ae33005f650d/podcast.rss",
+      "episodeFileExtension": "mp3",
+      "episodeContentType": "audio",
+      "artworkUrl160": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts113/v4/82/6d/3a/826d3a85-40ed-9df9-e1f7-df793d0dce2a/mza_14507094754748351400.jpg/160x160bb.jpg",
+      "episodeUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/b6fb8692-a785-4dd4-83cc-aee100280461/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "previewUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/b6fb8692-a785-4dd4-83cc-aee100280461/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "artworkUrl60": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts113/v4/82/6d/3a/826d3a85-40ed-9df9-e1f7-df793d0dce2a/mza_14507094754748351400.jpg/60x60bb.jpg",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/interval-presents/284341002?mt=2&uo=4",
+      "contentAdvisoryRating": "Explicit",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/episode-324-w-patti-labelle/id1096830182?i=1000571554638&uo=4",
+      "country": "USA",
+      "genres": [
+        {
+          "name": "Music",
+          "id": "1310"
+        }
+      ],
+      "episodeGuid": "b6fb8692-a785-4dd4-83cc-aee100280461",
+      "kind": "podcast-episode",
+      "wrapperType": "podcastEpisode"
+    },
+    {
+      "artworkUrl600": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts113/v4/f3/4e/e6/f34ee6e3-f409-c295-f863-95a630cfdb4d/mza_14149549368852100882.jpg/600x600bb.jpg",
+      "closedCaptioning": "none",
+      "collectionId": 1096830182,
+      "collectionName": "Drink Champs",
+      "description": "N.O.R.E. & DJ EFN are the Drink Champs. In this episode we chop it up with the one and only, Consequence! \n\nGet your 🍿 ready and enjoy the ride. Consequence shares stories of his journey, working with Kanye West, A Tribe Called Quest and more.\n\nCons talks VERZUZ, Joe Budden, ghostwriting vs. songwriting and much much more!\n\nLots of great stories that you don’t want to miss!!\n\nMake some noise for Consequence!!! 💐💐💐🏆🏆🏆\n\n \n\nListen and subscribe at http://www.drinkchamps.com\n\n Follow Drink Champs:\n\nhttp://www.instagram.com/drinkchamps\n\nhttp://www.twitter.com/drinkchamps\n\nhttp://www.facebook.com/drinkchamps\n\n DJ EFN\n\nhttp://www.crazyhood.com\n\nhttp://www.instagram.com/whoscrazy\n\nhttp://www.twitter.com/djefn\n\nhttp://www.facebook.com/crazyhoodproductions\n\n N.O.R.E.\n\nhttp://www.instagram.com/therealnoreaga\n\nhttp://www.twitter.com/noreaga\nSee omnystudio.com/listener for privacy information.",
+      "releaseDate": "2022-07-22T09:00:00Z",
+      "shortDescription": "",
+      "trackTimeMillis": 9358000,
+      "collectionViewUrl": "https://itunes.apple.com/us/podcast/drink-champs/id1096830182?mt=2&uo=4",
+      "trackId": 1000570788466,
+      "trackName": "Episode 323 w/ Consequence",
+      "artistIds": [
+        284341002
+      ],
+      "feedUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/df6d181a-09ea-4bf2-adc6-ae33005f650d/podcast.rss",
+      "episodeFileExtension": "mp3",
+      "episodeContentType": "audio",
+      "artworkUrl160": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts113/v4/f3/4e/e6/f34ee6e3-f409-c295-f863-95a630cfdb4d/mza_14149549368852100882.jpg/160x160bb.jpg",
+      "episodeUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/85833029-65fc-420b-9f35-aeda00247447/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "previewUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/85833029-65fc-420b-9f35-aeda00247447/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "artworkUrl60": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts113/v4/f3/4e/e6/f34ee6e3-f409-c295-f863-95a630cfdb4d/mza_14149549368852100882.jpg/60x60bb.jpg",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/interval-presents/284341002?mt=2&uo=4",
+      "contentAdvisoryRating": "Explicit",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/episode-323-w-consequence/id1096830182?i=1000570788466&uo=4",
+      "country": "USA",
+      "genres": [
+        {
+          "name": "Music",
+          "id": "1310"
+        }
+      ],
+      "episodeGuid": "85833029-65fc-420b-9f35-aeda00247447",
+      "kind": "podcast-episode",
+      "wrapperType": "podcastEpisode"
+    },
+    {
+      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/51/5b/a1/515ba1d8-86eb-057f-3b28-6913dbd5998c/mza_17595222539054970626.jpg/600x600bb.jpg",
+      "closedCaptioning": "none",
+      "collectionId": 1096830182,
+      "collectionName": "Drink Champs",
+      "description": "N.O.R.E. & DJ EFN are the Drink Champs. In this episode we chop it up with the one and only, Trina! \n\nGiving the legend her flowers Trina joins us as she shares stories about her career. \n\nTrina talks about her relationship with Trick Daddy and their morning show. “The Baddest” also shares stories of coming up in Miami and much much more!\n\nLots of great stories that you don’t want to miss!!\n\nMake some noise!!! 💐💐💐🏆🏆🏆\n\nListen and subscribe at http://www.drinkchamps.com\n\n Follow Drink Champs:\n\nhttp://www.instagram.com/drinkchamps\n\nhttp://www.twitter.com/drinkchamps\n\nhttp://www.facebook.com/drinkchamps\n\n DJ EFN\n\nhttp://www.crazyhood.com\n\nhttp://www.instagram.com/whoscrazy\n\nhttp://www.twitter.com/djefn\n\nhttp://www.facebook.com/crazyhoodproductions\n\n N.O.R.E.\n\nhttp://www.instagram.com/therealnoreaga\n\nhttp://www.twitter.com/noreaga\n\n \nSee omnystudio.com/listener for privacy information.",
+      "releaseDate": "2022-07-15T10:00:00Z",
+      "shortDescription": "",
+      "trackTimeMillis": 4483000,
+      "collectionViewUrl": "https://itunes.apple.com/us/podcast/drink-champs/id1096830182?mt=2&uo=4",
+      "trackId": 1000570003180,
+      "trackName": "Episode 322 w/ Trina",
+      "artistIds": [
+        284341002
+      ],
+      "feedUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/df6d181a-09ea-4bf2-adc6-ae33005f650d/podcast.rss",
+      "episodeFileExtension": "mp3",
+      "episodeContentType": "audio",
+      "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/51/5b/a1/515ba1d8-86eb-057f-3b28-6913dbd5998c/mza_17595222539054970626.jpg/160x160bb.jpg",
+      "episodeUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/58432824-b390-442d-b2ff-aed201694700/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "previewUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/58432824-b390-442d-b2ff-aed201694700/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/51/5b/a1/515ba1d8-86eb-057f-3b28-6913dbd5998c/mza_17595222539054970626.jpg/60x60bb.jpg",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/interval-presents/284341002?mt=2&uo=4",
+      "contentAdvisoryRating": "Explicit",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/episode-322-w-trina/id1096830182?i=1000570003180&uo=4",
+      "country": "USA",
+      "genres": [
+        {
+          "name": "Music",
+          "id": "1310"
+        }
+      ],
+      "episodeGuid": "58432824-b390-442d-b2ff-aed201694700",
+      "kind": "podcast-episode",
+      "wrapperType": "podcastEpisode"
+    },
+    {
+      "artworkUrl600": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts123/v4/b6/50/30/b65030ea-169c-cd98-1b6e-3fb426e3b2e2/mza_17564099298290007031.jpg/600x600bb.jpg",
+      "closedCaptioning": "none",
+      "collectionId": 1096830182,
+      "collectionName": "Drink Champs",
+      "description": "N.O.R.E. & DJ EFN are the Drink Champs. In this episode we chop it up with two legendary women, Angie Martinez & Tiffany Haddish! \n\nIt’s ladies night and we are taking shots and sharing some incredible stories! \n\nAngie shares stories of her career, being inducted into the radio Hall of Fame and more! \n\nTiffany shares stories of her journey in comedy and how she transitioned into one of Hollywood’s most sought out actors! \n\nLots of great stories that you don’t want to miss!!\n\nMake some noise!!! 💐💐💐🏆🏆🏆\n\n \n\nListen and subscribe at http://www.drinkchamps.com\n\n Follow Drink Champs:\n\nhttp://www.instagram.com/drinkchamps\n\nhttp://www.twitter.com/drinkchamps\n\nhttp://www.facebook.com/drinkchamps\n\n DJ EFN\n\nhttp://www.crazyhood.com\n\nhttp://www.instagram.com/whoscrazy\n\nhttp://www.twitter.com/djefn\n\nhttp://www.facebook.com/crazyhoodproductions\n\n N.O.R.E.\n\nhttp://www.instagram.com/therealnoreaga\n\nhttp://www.twitte\nSee omnystudio.com/listener for privacy information.",
+      "releaseDate": "2022-07-08T09:00:00Z",
+      "shortDescription": "",
+      "trackTimeMillis": 2703000,
+      "collectionViewUrl": "https://itunes.apple.com/us/podcast/drink-champs/id1096830182?mt=2&uo=4",
+      "trackId": 1000569247488,
+      "trackName": "Episode 321 w/ Angie Martinez & Tiffany Haddish",
+      "artistIds": [
+        284341002
+      ],
+      "feedUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/df6d181a-09ea-4bf2-adc6-ae33005f650d/podcast.rss",
+      "episodeFileExtension": "mp3",
+      "episodeContentType": "audio",
+      "artworkUrl160": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts123/v4/b6/50/30/b65030ea-169c-cd98-1b6e-3fb426e3b2e2/mza_17564099298290007031.jpg/160x160bb.jpg",
+      "episodeUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/7282619f-7211-4b76-995b-aecb016a0c63/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "previewUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/7282619f-7211-4b76-995b-aecb016a0c63/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "artworkUrl60": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts123/v4/b6/50/30/b65030ea-169c-cd98-1b6e-3fb426e3b2e2/mza_17564099298290007031.jpg/60x60bb.jpg",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/interval-presents/284341002?mt=2&uo=4",
+      "contentAdvisoryRating": "Explicit",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/episode-321-w-angie-martinez-tiffany-haddish/id1096830182?i=1000569247488&uo=4",
+      "country": "USA",
+      "genres": [
+        {
+          "name": "Music",
+          "id": "1310"
+        }
+      ],
+      "episodeGuid": "7282619f-7211-4b76-995b-aecb016a0c63",
+      "kind": "podcast-episode",
+      "wrapperType": "podcastEpisode"
+    },
+    {
+      "artworkUrl600": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts123/v4/48/00/dd/4800ddd1-bb9e-66ee-5bbb-3d84c475dbc6/mza_9571197942484886542.jpg/600x600bb.jpg",
+      "closedCaptioning": "none",
+      "collectionId": 1096830182,
+      "collectionName": "Drink Champs",
+      "description": "N.O.R.E. & DJ EFN are the Drink Champs. In this episode, we chop it up with legendary producer, Scott Storch!\n\nStorch lit the game on of fire by producing hit records for artists like Beyoncé, Chris Brown, 50 Cent, Lil Wayne, Eminem, Fat Joe, Busta Rhymes, Capone-N-Noreaga and more!\n\nScott shares stories from his legendary career, from working with Dr. Dre, dating Lil Kim and much much more!\n\nWe are also joined by the one and only Steve Lobel! \n\nLots of great stories that you don’t want to miss!!\n\nMake some noise for Scott Storch and Steve Lobel!!! 💐💐💐🏆🏆🏆\n\n \n\nListen and subscribe at http://www.drinkchamps.com\n\n Follow Drink Champs:\n\nhttp://www.instagram.com/drinkchamps\n\nhttp://www.twitter.com/drinkchamps\n\nhttp://www.facebook.com/drinkchamps\n\n DJ EFN\n\nhttp://www.crazyhood.com\n\nhttp://www.instagram.com/whoscrazy\n\nhttp://www.twitter.com/djefn\n\nhttp://www.facebook.com/crazyhoodproductions\n\n N.O.R.E.\n\nhttp://www.instagram.com/therealnoreaga\n\nhttp://www.twitter.com/noreaga\nSee omnystudio.com/listener for privacy information.",
+      "releaseDate": "2022-07-01T08:50:00Z",
+      "shortDescription": "",
+      "trackTimeMillis": 9569000,
+      "collectionViewUrl": "https://itunes.apple.com/us/podcast/drink-champs/id1096830182?mt=2&uo=4",
+      "trackId": 1000568416968,
+      "trackName": "Episode 320 w/ Scott Storch",
+      "artistIds": [
+        284341002
+      ],
+      "feedUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/df6d181a-09ea-4bf2-adc6-ae33005f650d/podcast.rss",
+      "episodeFileExtension": "mp3",
+      "episodeContentType": "audio",
+      "artworkUrl160": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts123/v4/48/00/dd/4800ddd1-bb9e-66ee-5bbb-3d84c475dbc6/mza_9571197942484886542.jpg/160x160bb.jpg",
+      "episodeUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/8964c259-9695-4e0d-9817-aec5003fa04b/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "previewUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/8964c259-9695-4e0d-9817-aec5003fa04b/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "artworkUrl60": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts123/v4/48/00/dd/4800ddd1-bb9e-66ee-5bbb-3d84c475dbc6/mza_9571197942484886542.jpg/60x60bb.jpg",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/interval-presents/284341002?mt=2&uo=4",
+      "contentAdvisoryRating": "Explicit",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/episode-320-w-scott-storch/id1096830182?i=1000568416968&uo=4",
+      "country": "USA",
+      "genres": [
+        {
+          "name": "Music",
+          "id": "1310"
+        }
+      ],
+      "episodeGuid": "8964c259-9695-4e0d-9817-aec5003fa04b",
+      "kind": "podcast-episode",
+      "wrapperType": "podcastEpisode"
+    },
+    {
+      "artworkUrl600": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts123/v4/33/40/21/33402118-1105-4f80-6125-705c4083304c/mza_16592264101334049871.jpg/600x600bb.jpg",
+      "closedCaptioning": "none",
+      "collectionId": 1096830182,
+      "collectionName": "Drink Champs",
+      "description": "N.O.R.E. & DJ EFN are the Drink Champs. In this episode we chop it up with the legendary Chris Brown!\n\nChris joins us and shares stories of his journey in music. Chris talks almost being sign to Diddy’s Bad Boy record label, his first single “RUN IT” and more!\n\nBreezy talks VERZUZ, Drake, consistency in music and much much more!\n\nLots of great stories that you don’t want to miss!!\n\nMake some noise for the one and only Chris Brown!!! 💐💐💐🏆🏆🏆\n\n||\n\nListen and subscribe at http://www.drinkchamps.com\n\n Follow Drink Champs:\n\nhttp://www.instagram.com/drinkchamps\n\nhttp://www.twitter.com/drinkchamps\n\nhttp://www.facebook.com/drinkchamps\n\n DJ EFN\n\nhttp://www.crazyhood.com\n\nhttp://www.instagram.com/whoscrazy\n\nhttp://www.twitter.com/djefn\n\nhttp://www.facebook.com/crazyhoodproductions\n\n N.O.R.E.\n\nhttp://www.instagram.com/therealnoreaga\n\nhttp://www.twitter.com/noreaga\nSee omnystudio.com/listener for privacy information.",
+      "releaseDate": "2022-06-24T08:45:00Z",
+      "shortDescription": "",
+      "trackTimeMillis": 6526000,
+      "collectionViewUrl": "https://itunes.apple.com/us/podcast/drink-champs/id1096830182?mt=2&uo=4",
+      "trackId": 1000567583489,
+      "trackName": "Episode 319 w/ Chris Brown",
+      "artistIds": [
+        284341002
+      ],
+      "feedUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/df6d181a-09ea-4bf2-adc6-ae33005f650d/podcast.rss",
+      "episodeFileExtension": "mp3",
+      "episodeContentType": "audio",
+      "artworkUrl160": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts123/v4/33/40/21/33402118-1105-4f80-6125-705c4083304c/mza_16592264101334049871.jpg/160x160bb.jpg",
+      "episodeUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/6ecd5ab2-db3e-4703-a99c-aebd01148253/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "previewUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/6ecd5ab2-db3e-4703-a99c-aebd01148253/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "artworkUrl60": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts123/v4/33/40/21/33402118-1105-4f80-6125-705c4083304c/mza_16592264101334049871.jpg/60x60bb.jpg",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/interval-presents/284341002?mt=2&uo=4",
+      "contentAdvisoryRating": "Explicit",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/episode-319-w-chris-brown/id1096830182?i=1000567583489&uo=4",
+      "country": "USA",
+      "genres": [
+        {
+          "name": "Music",
+          "id": "1310"
+        }
+      ],
+      "episodeGuid": "6ecd5ab2-db3e-4703-a99c-aebd01148253",
+      "kind": "podcast-episode",
+      "wrapperType": "podcastEpisode"
+    },
+    {
+      "artworkUrl600": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts113/v4/2f/0e/c0/2f0ec0ba-8e99-3caa-5c78-d488bec58762/mza_13727409610679960865.jpg/600x600bb.jpg",
+      "closedCaptioning": "none",
+      "collectionId": 1096830182,
+      "collectionName": "Drink Champs",
+      "description": "N.O.R.E. & DJ EFN are the Drink Champs. In this episode we celebrate the 25th Anniversary of the legendary album “The War Report” by Capone-N-Noreaga. \n\nIn this episode, CNN is joined by the power players that were part of the creation of their debut album “The War Report”.\n\nOn this 25th Anniversary episode, we are joined by Tragedy Khadafi, Neil Levine, Geno Sims, Marty Most, Gregory Taylor, & the one and only Busta Rhymes.\n\nLots of great stories that you don’t want to miss!!\n\nMake some noise!!! 💐💐💐🏆🏆🏆\n\nListen and subscribe at http://www.drinkchamps.com\n\n Follow Drink Champs:\n\nhttp://www.instagram.com/drinkchamps\n\nhttp://www.twitter.com/drinkchamps\n\nhttp://www.facebook.com/drinkchamps\n\n DJ EFN\n\nhttp://www.crazyhood.com\n\nhttp://www.instagram.com/whoscrazy\n\nhttp://www.twitter.com/djefn\n\nhttp://www.facebook.com/crazyhoodproductions\n\n N.O.R.E.\n\nhttp://www.instagram.com/therealnoreaga\n\nhttp://www.twitter.com/noreaga\nSee omnystudio.com/listener for privacy information.",
+      "releaseDate": "2022-06-17T08:40:00Z",
+      "shortDescription": "",
+      "trackTimeMillis": 17438000,
+      "collectionViewUrl": "https://itunes.apple.com/us/podcast/drink-champs/id1096830182?mt=2&uo=4",
+      "trackId": 1000566782568,
+      "trackName": "Episode 318- “The War Report 25 Year Anniversary”",
+      "artistIds": [
+        284341002
+      ],
+      "feedUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/df6d181a-09ea-4bf2-adc6-ae33005f650d/podcast.rss",
+      "episodeFileExtension": "mp3",
+      "episodeContentType": "audio",
+      "artworkUrl160": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts113/v4/2f/0e/c0/2f0ec0ba-8e99-3caa-5c78-d488bec58762/mza_13727409610679960865.jpg/160x160bb.jpg",
+      "episodeUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/a0a6a7b2-cc3c-42f6-9a30-aeb600f306f6/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "previewUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/a0a6a7b2-cc3c-42f6-9a30-aeb600f306f6/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "artworkUrl60": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts113/v4/2f/0e/c0/2f0ec0ba-8e99-3caa-5c78-d488bec58762/mza_13727409610679960865.jpg/60x60bb.jpg",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/interval-presents/284341002?mt=2&uo=4",
+      "contentAdvisoryRating": "Explicit",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/episode-318-the-war-report-25-year-anniversary/id1096830182?i=1000566782568&uo=4",
+      "country": "USA",
+      "genres": [
+        {
+          "name": "Music",
+          "id": "1310"
+        }
+      ],
+      "episodeGuid": "a0a6a7b2-cc3c-42f6-9a30-aeb600f306f6",
+      "kind": "podcast-episode",
+      "wrapperType": "podcastEpisode"
+    },
+    {
+      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/37/f9/72/37f972d8-b0d0-d17f-4ff4-0b2cb218249d/mza_15857487769139255582.jpg/600x600bb.jpg",
+      "closedCaptioning": "none",
+      "collectionId": 1096830182,
+      "collectionName": "Drink Champs",
+      "description": "N.O.R.E. & DJ EFN are the Drink Champs. In this episode we chop it up with the legendary Iron Mike Tyson!\n\nOne of boxings most iconic athletes, Mike Tyson became the Undisputed World Heavyweight Champion, dominating the sport of boxing.\n\nLive from Las Vegas - Tyson joins us and talks about his journey and shares stories of Tupac, Don King, life after boxing and more. \n\nMike Tyson also talks about his business ventures, Tyson 2.0 and much much more!\n\nWe are also joined by Marcus Barney founder of The Recession Proof Convention. \n\nLots of great stories that you don’t want to miss!!\n\nMake some noise for the one and only Mike Tyson!!! 💐💐💐🏆🏆🏆\n\n \n\nListen and subscribe at http://www.drinkchamps.com\n\n Follow Drink Champs:\n\nhttp://www.instagram.com/drinkchamps\n\nhttp://www.twitter.com/drinkchamps\n\nhttp://www.facebook.com/drinkchamps\n\n DJ EFN\n\nhttp://www.crazyhood.com\n\nhttp://www.instagram.com/whoscrazy\n\nhttp://www.twitter.com/djefn\n\nhttp://www.facebook.com/crazyhoodproductions\n\n N.O.R.E.\n\nhttp://www.instagram.com/therealnoreaga\n\nhttp://www.twitter.com/noreaga\n\n \nSee omnystudio.com/listener for privacy information.",
+      "releaseDate": "2022-06-09T20:30:00Z",
+      "shortDescription": "",
+      "trackTimeMillis": 5315000,
+      "collectionViewUrl": "https://itunes.apple.com/us/podcast/drink-champs/id1096830182?mt=2&uo=4",
+      "trackId": 1000565947028,
+      "trackName": "Episode 317 w/ Mike Tyson",
+      "artistIds": [
+        284341002
+      ],
+      "feedUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/df6d181a-09ea-4bf2-adc6-ae33005f650d/podcast.rss",
+      "episodeFileExtension": "mp3",
+      "episodeContentType": "audio",
+      "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/37/f9/72/37f972d8-b0d0-d17f-4ff4-0b2cb218249d/mza_15857487769139255582.jpg/160x160bb.jpg",
+      "episodeUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/e6ceb52f-09c8-46a2-8c5c-aeaf0145b155/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "previewUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/e6ceb52f-09c8-46a2-8c5c-aeaf0145b155/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/37/f9/72/37f972d8-b0d0-d17f-4ff4-0b2cb218249d/mza_15857487769139255582.jpg/60x60bb.jpg",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/interval-presents/284341002?mt=2&uo=4",
+      "contentAdvisoryRating": "Explicit",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/episode-317-w-mike-tyson/id1096830182?i=1000565947028&uo=4",
+      "country": "USA",
+      "genres": [
+        {
+          "name": "Music",
+          "id": "1310"
+        }
+      ],
+      "episodeGuid": "e6ceb52f-09c8-46a2-8c5c-aeaf0145b155",
+      "kind": "podcast-episode",
+      "wrapperType": "podcastEpisode"
+    },
+    {
+      "artworkUrl600": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/55/ba/08/55ba08b4-c0e9-f2c2-eff3-96354aa0d170/mza_8885980784879571482.jpg/600x600bb.jpg",
+      "closedCaptioning": "none",
+      "collectionId": 1096830182,
+      "collectionName": "Drink Champs",
+      "description": "N.O.R.E. & DJ EFN are the Drink Champs. In this episode we chop it up with the one and only Juelz Santana!\n\nJuelz shares his journey in hip hop as he talks about his come up, being part of the legendary group The Diplomats aka Dipset and more!\n\nJuelz also talks about serving time, releasing new music, the epic VERUZ battle between Dipset & The Lox and much more!\n\nLots of great stories that you don’t want to miss!!\n\nMake some noise for Juelz Santana!!! 💐💐💐🏆🏆🏆\n\n \n\nListen and subscribe at http://www.drinkchamps.com\n\n Follow Drink Champs:\n\nhttp://www.instagram.com/drinkchamps\n\nhttp://www.twitter.com/drinkchamps\n\nhttp://www.facebook.com/drinkchamps\n\n DJ EFN\n\nhttp://www.crazyhood.com\n\nhttp://www.instagram.com/whoscrazy\n\nhttp://www.twitter.com/djefn\n\nhttp://www.facebook.com/crazyhoodproductions\n\n N.O.R.E.\n\nhttp://www.instagram.com/therealnoreaga\n\nhttp://www.twitter.com/noreaga\nSee omnystudio.com/listener for privacy information.",
+      "releaseDate": "2022-06-03T09:00:00Z",
+      "shortDescription": "",
+      "trackTimeMillis": 11031000,
+      "collectionViewUrl": "https://itunes.apple.com/us/podcast/drink-champs/id1096830182?mt=2&uo=4",
+      "trackId": 1000565098234,
+      "trackName": "Episode 316 w/ Juelz Santana",
+      "artistIds": [
+        284341002
+      ],
+      "feedUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/df6d181a-09ea-4bf2-adc6-ae33005f650d/podcast.rss",
+      "episodeFileExtension": "mp3",
+      "episodeContentType": "audio",
+      "artworkUrl160": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/55/ba/08/55ba08b4-c0e9-f2c2-eff3-96354aa0d170/mza_8885980784879571482.jpg/160x160bb.jpg",
+      "episodeUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/047dcec2-4803-4eca-ad60-aea80138b42f/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "previewUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/047dcec2-4803-4eca-ad60-aea80138b42f/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "artworkUrl60": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/55/ba/08/55ba08b4-c0e9-f2c2-eff3-96354aa0d170/mza_8885980784879571482.jpg/60x60bb.jpg",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/interval-presents/284341002?mt=2&uo=4",
+      "contentAdvisoryRating": "Explicit",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/episode-316-w-juelz-santana/id1096830182?i=1000565098234&uo=4",
+      "country": "USA",
+      "genres": [
+        {
+          "name": "Music",
+          "id": "1310"
+        }
+      ],
+      "episodeGuid": "047dcec2-4803-4eca-ad60-aea80138b42f",
+      "kind": "podcast-episode",
+      "wrapperType": "podcastEpisode"
+    },
+    {
+      "artworkUrl600": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5c/89/42/5c8942a7-a8e4-157e-2ca1-1426e83684aa/mza_14325813385824998847.jpg/600x600bb.jpg",
+      "closedCaptioning": "none",
+      "collectionId": 1096830182,
+      "collectionName": "Drink Champs",
+      "description": "N.O.R.E. & DJ EFN are the Drink Champs. In this episode we chop it up with the one and only Tank!\n\nAn R&B legend, Tank joins us and shares his journey. Tank tells stories of Aaliyah, his career and much more. \n\nTank also tells the story of how we wrote & produced the hit song “I Deserve”\n\nLots of great stories that you don’t want to miss!!\n\nMake some noise for Tank!!! 💐💐💐🏆🏆🏆\n\n \n\nListen and subscribe at http://www.drinkchamps.com\n\n Follow Drink Champs:\n\nhttp://www.instagram.com/drinkchamps\n\nhttp://www.twitter.com/drinkchamps\n\nhttp://www.facebook.com/drinkchamps\n\n DJ EFN\n\nhttp://www.crazyhood.com\n\nhttp://www.instagram.com/whoscrazy\n\nhttp://www.twitter.com/djefn\n\nhttp://www.facebook.com/crazyhoodproductions\n\n N.O.R.E.\n\nhttp://www.instagram.com/therealnoreaga\n\nhttp://www.twitter.com/noreaga\nSee omnystudio.com/listener for privacy information.",
+      "releaseDate": "2022-05-20T08:45:00Z",
+      "shortDescription": "",
+      "trackTimeMillis": 10298000,
+      "collectionViewUrl": "https://itunes.apple.com/us/podcast/drink-champs/id1096830182?mt=2&uo=4",
+      "trackId": 1000562783334,
+      "trackName": "Episode 315 w/ Tank",
+      "artistIds": [
+        284341002
+      ],
+      "feedUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/df6d181a-09ea-4bf2-adc6-ae33005f650d/podcast.rss",
+      "episodeFileExtension": "mp3",
+      "episodeContentType": "audio",
+      "artworkUrl160": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5c/89/42/5c8942a7-a8e4-157e-2ca1-1426e83684aa/mza_14325813385824998847.jpg/160x160bb.jpg",
+      "episodeUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/32e77b60-74e5-46be-9749-ae9a01803380/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "previewUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/32e77b60-74e5-46be-9749-ae9a01803380/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "artworkUrl60": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5c/89/42/5c8942a7-a8e4-157e-2ca1-1426e83684aa/mza_14325813385824998847.jpg/60x60bb.jpg",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/interval-presents/284341002?mt=2&uo=4",
+      "contentAdvisoryRating": "Explicit",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/episode-315-w-tank/id1096830182?i=1000562783334&uo=4",
+      "country": "USA",
+      "genres": [
+        {
+          "name": "Music",
+          "id": "1310"
+        }
+      ],
+      "episodeGuid": "32e77b60-74e5-46be-9749-ae9a01803380",
+      "kind": "podcast-episode",
+      "wrapperType": "podcastEpisode"
+    },
+    {
+      "artworkUrl600": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/a6/f1/1c/a6f11c07-90e0-20ba-e95f-b25e256b62f6/mza_6289866134976087143.jpg/600x600bb.jpg",
+      "closedCaptioning": "none",
+      "collectionId": 1096830182,
+      "collectionName": "Drink Champs",
+      "description": "N.O.R.E. & DJ EFN are the Drink Champs. In this episode we chop it up with the one and only A$AP Rocky!\n\nA$AP Rocky joins us as he shares his journey in hip-hop and the A$AP Mob. Rocky shares stories of JAY Z, Fabolous, his own whiskey “Mercer + Prince” and much much more! \n\nA$AP also talks about directing his own music videos, fashion, his relationship with Rihanna and the upcoming birth of their child! \n\nLots of great stories that you don’t want to miss!!\n\nMake some noise for A$AP Rocky!!! 💐💐💐🏆🏆🏆\n\n \n\nListen and subscribe at http://www.drinkchamps.com\n\n Follow Drink Champs:\n\nhttp://www.instagram.com/drinkchamps\n\nhttp://www.twitter.com/drinkchamps\n\nhttp://www.facebook.com/drinkchamps\n\n DJ EFN\n\nhttp://www.crazyhood.com\n\nhttp://www.instagram.com/whoscrazy\n\nhttp://www.twitter.com/djefn\n\nhttp://www.facebook.com/crazyhoodproductions\n\n N.O.R.E.\n\nhttp://www.instagram.com/therealnoreaga\n\nhttp://www.twitter.com/noreaga\nSee omnystudio.com/listener for privacy information.",
+      "releaseDate": "2022-05-13T09:00:00Z",
+      "shortDescription": "",
+      "trackTimeMillis": 7992000,
+      "collectionViewUrl": "https://itunes.apple.com/us/podcast/drink-champs/id1096830182?mt=2&uo=4",
+      "trackId": 1000561004894,
+      "trackName": "Episode 314 w/ A$AP Rocky",
+      "artistIds": [
+        284341002
+      ],
+      "feedUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/df6d181a-09ea-4bf2-adc6-ae33005f650d/podcast.rss",
+      "episodeFileExtension": "mp3",
+      "episodeContentType": "audio",
+      "artworkUrl160": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/a6/f1/1c/a6f11c07-90e0-20ba-e95f-b25e256b62f6/mza_6289866134976087143.jpg/160x160bb.jpg",
+      "episodeUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/ddcd1c11-59a8-476b-8dda-ae9300fd20bb/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "previewUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/ddcd1c11-59a8-476b-8dda-ae9300fd20bb/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "artworkUrl60": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/a6/f1/1c/a6f11c07-90e0-20ba-e95f-b25e256b62f6/mza_6289866134976087143.jpg/60x60bb.jpg",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/interval-presents/284341002?mt=2&uo=4",
+      "contentAdvisoryRating": "Explicit",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/episode-314-w-a%24ap-rocky/id1096830182?i=1000561004894&uo=4",
+      "country": "USA",
+      "genres": [
+        {
+          "name": "Music",
+          "id": "1310"
+        }
+      ],
+      "episodeGuid": "ddcd1c11-59a8-476b-8dda-ae9300fd20bb",
+      "kind": "podcast-episode",
+      "wrapperType": "podcastEpisode"
+    },
+    {
+      "artworkUrl600": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts123/v4/2b/75/d4/2b75d4a9-89a8-4928-640e-0ef98cb6326e/mza_13592298869242944754.jpg/600x600bb.jpg",
+      "closedCaptioning": "none",
+      "collectionId": 1096830182,
+      "collectionName": "Drink Champs",
+      "description": "N.O.R.E. & DJ EFN are the Drink Champs. In this episode we chop it up with the legendary Pusha T!\n\nOur fellow Drink Champs Alumni joins us once again. Pusha T talks about his latest project “It’s Almost Dry” produced by Pharrell & Kanye West. \n\nPusha also talks about the future of lyricism in Hip-Hop, working with JAY Z and much more! \n\nLots of great stories that you don’t want to miss!!\n\nMake some noise!!! 💐💐💐🏆🏆🏆\n\n \n\nListen and subscribe at http://www.drinkchamps.com\n\n Follow Drink Champs:\n\nhttp://www.instagram.com/drinkchamps\n\nhttp://www.twitter.com/drinkchamps\n\nhttp://www.facebook.com/drinkchamps\n\n DJ EFN\n\nhttp://www.crazyhood.com\n\nhttp://www.instagram.com/whoscrazy\n\nhttp://www.twitter.com/djefn\n\nhttp://www.facebook.com/crazyhoodproductions\n\n N.O.R.E.\n\nhttp://www.instagram.com/therealnoreaga\n\nhttp://www.twitter.com/noreaga\nSee omnystudio.com/listener for privacy information.",
+      "releaseDate": "2022-05-06T08:00:00Z",
+      "shortDescription": "",
+      "trackTimeMillis": 11921000,
+      "collectionViewUrl": "https://itunes.apple.com/us/podcast/drink-champs/id1096830182?mt=2&uo=4",
+      "trackId": 1000559810868,
+      "trackName": "Episode 313 w/ Pusha T",
+      "artistIds": [
+        284341002
+      ],
+      "feedUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/df6d181a-09ea-4bf2-adc6-ae33005f650d/podcast.rss",
+      "episodeFileExtension": "mp3",
+      "episodeContentType": "audio",
+      "artworkUrl160": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts123/v4/2b/75/d4/2b75d4a9-89a8-4928-640e-0ef98cb6326e/mza_13592298869242944754.jpg/160x160bb.jpg",
+      "episodeUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/973ce8c8-c3d2-48dc-a4c7-ae8c01628841/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "previewUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/973ce8c8-c3d2-48dc-a4c7-ae8c01628841/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "artworkUrl60": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts123/v4/2b/75/d4/2b75d4a9-89a8-4928-640e-0ef98cb6326e/mza_13592298869242944754.jpg/60x60bb.jpg",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/interval-presents/284341002?mt=2&uo=4",
+      "contentAdvisoryRating": "Explicit",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/episode-313-w-pusha-t/id1096830182?i=1000559810868&uo=4",
+      "country": "USA",
+      "genres": [
+        {
+          "name": "Music",
+          "id": "1310"
+        }
+      ],
+      "episodeGuid": "973ce8c8-c3d2-48dc-a4c7-ae8c01628841",
+      "kind": "podcast-episode",
+      "wrapperType": "podcastEpisode"
+    },
+    {
+      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/a6/83/3c/a6833c00-e1d7-e59f-738c-fcdb55123eb0/mza_11669429756352930469.jpg/600x600bb.jpg",
+      "closedCaptioning": "none",
+      "collectionId": 1096830182,
+      "collectionName": "Drink Champs",
+      "description": "N.O.R.E. & DJ EFN are the Drink Champs. In this episode we chop it up with the one and only Benny The Butcher!\n\nThe Butcher joins us as he shares his journey in Hip-Hop. Benny shares stories about his come up in Buffalo, the Griselda movement and much more. \n\nBenny also shares stories about signing to Def Jam, how he deals with trolls and much much more!\n\nDiamond D and Jarobi of A Tribe Called Quest also join the conversation! \n\nLots of great stories that you don’t want to miss!!\n\nMake some noise!!! 💐💐💐🏆🏆🏆\n\n \n\nListen and subscribe at http://www.drinkchamps.com\n\n Follow Drink Champs:\n\nhttp://www.instagram.com/drinkchamps\n\nhttp://www.twitter.com/drinkchamps\n\nhttp://www.facebook.com/drinkchamps\n\n DJ EFN\n\nhttp://www.crazyhood.com\n\nhttp://www.instagram.com/whoscrazy\n\nhttp://www.twitter.com/djefn\n\nhttp://www.facebook.com/crazyhoodproductions\n\n N.O.R.E.\n\nhttp://www.instagram.com/therealnoreaga\n\nhttp://www.twitter.com/noreaga\nSee omnystudio.com/listener for privacy information.",
+      "releaseDate": "2022-04-29T09:00:00Z",
+      "shortDescription": "",
+      "trackTimeMillis": 12577000,
+      "collectionViewUrl": "https://itunes.apple.com/us/podcast/drink-champs/id1096830182?mt=2&uo=4",
+      "trackId": 1000559081583,
+      "trackName": "Episode 312 w/ Benny The Butcher",
+      "artistIds": [
+        284341002
+      ],
+      "feedUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/df6d181a-09ea-4bf2-adc6-ae33005f650d/podcast.rss",
+      "episodeFileExtension": "mp3",
+      "episodeContentType": "audio",
+      "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/a6/83/3c/a6833c00-e1d7-e59f-738c-fcdb55123eb0/mza_11669429756352930469.jpg/160x160bb.jpg",
+      "episodeUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/53b117d6-25d4-4b88-b87b-ae8600240f6c/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "previewUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/53b117d6-25d4-4b88-b87b-ae8600240f6c/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/a6/83/3c/a6833c00-e1d7-e59f-738c-fcdb55123eb0/mza_11669429756352930469.jpg/60x60bb.jpg",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/interval-presents/284341002?mt=2&uo=4",
+      "contentAdvisoryRating": "Explicit",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/episode-312-w-benny-the-butcher/id1096830182?i=1000559081583&uo=4",
+      "country": "USA",
+      "genres": [
+        {
+          "name": "Music",
+          "id": "1310"
+        }
+      ],
+      "episodeGuid": "53b117d6-25d4-4b88-b87b-ae8600240f6c",
+      "kind": "podcast-episode",
+      "wrapperType": "podcastEpisode"
+    },
+    {
+      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/20/1c/f2/201cf287-1327-664f-72a1-948dcf865850/mza_18288542963054455431.jpg/600x600bb.jpg",
+      "closedCaptioning": "none",
+      "collectionId": 1096830182,
+      "collectionName": "Drink Champs",
+      "description": "N.O.R.E. & DJ EFN are the Drink Champs. In this episode we chop it up with the legendary group, Cypress Hill!",
+      "releaseDate": "2022-04-21T03:00:00Z",
+      "shortDescription": "",
+      "trackTimeMillis": 13893000,
+      "collectionViewUrl": "https://itunes.apple.com/us/podcast/drink-champs/id1096830182?mt=2&uo=4",
+      "trackId": 1000558216584,
+      "trackName": "Episode 311 w/ Cypress Hill",
+      "artistIds": [
+        284341002
+      ],
+      "feedUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/df6d181a-09ea-4bf2-adc6-ae33005f650d/podcast.rss",
+      "episodeFileExtension": "mp3",
+      "episodeContentType": "audio",
+      "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/20/1c/f2/201cf287-1327-664f-72a1-948dcf865850/mza_18288542963054455431.jpg/160x160bb.jpg",
+      "episodeUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/3a6c05b3-97ba-40b5-b38a-ae7d00ee3bc3/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "previewUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/3a6c05b3-97ba-40b5-b38a-ae7d00ee3bc3/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/20/1c/f2/201cf287-1327-664f-72a1-948dcf865850/mza_18288542963054455431.jpg/60x60bb.jpg",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/interval-presents/284341002?mt=2&uo=4",
+      "contentAdvisoryRating": "Explicit",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/episode-311-w-cypress-hill/id1096830182?i=1000558216584&uo=4",
+      "country": "USA",
+      "genres": [
+        {
+          "name": "Music",
+          "id": "1310"
+        }
+      ],
+      "episodeGuid": "3a6c05b3-97ba-40b5-b38a-ae7d00ee3bc3",
+      "kind": "podcast-episode",
+      "wrapperType": "podcastEpisode"
+    },
+    {
+      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/1c/ad/4d/1cad4d02-9028-cd4c-d4a1-6306d6e10bf7/mza_3614671359001505854.jpg/600x600bb.jpg",
+      "closedCaptioning": "none",
+      "collectionId": 1096830182,
+      "collectionName": "Drink Champs",
+      "description": "N.O.R.E. & DJ EFN are the Drink Champs. In this episode we chop it up with the icon himself, Snoop Dogg!",
+      "releaseDate": "2022-04-15T08:00:00Z",
+      "shortDescription": "",
+      "trackTimeMillis": 7324000,
+      "collectionViewUrl": "https://itunes.apple.com/us/podcast/drink-champs/id1096830182?mt=2&uo=4",
+      "trackId": 1000557687584,
+      "trackName": "Episode 310 w/ Snoop Dogg",
+      "artistIds": [
+        284341002
+      ],
+      "feedUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/df6d181a-09ea-4bf2-adc6-ae33005f650d/podcast.rss",
+      "episodeFileExtension": "mp3",
+      "episodeContentType": "audio",
+      "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/1c/ad/4d/1cad4d02-9028-cd4c-d4a1-6306d6e10bf7/mza_3614671359001505854.jpg/160x160bb.jpg",
+      "episodeUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/93e14f09-df6a-45fe-978a-ae7800863805/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "previewUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/93e14f09-df6a-45fe-978a-ae7800863805/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/1c/ad/4d/1cad4d02-9028-cd4c-d4a1-6306d6e10bf7/mza_3614671359001505854.jpg/60x60bb.jpg",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/interval-presents/284341002?mt=2&uo=4",
+      "contentAdvisoryRating": "Explicit",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/episode-310-w-snoop-dogg/id1096830182?i=1000557687584&uo=4",
+      "country": "USA",
+      "genres": [
+        {
+          "name": "Music",
+          "id": "1310"
+        }
+      ],
+      "episodeGuid": "043c5166-ac31-11ec-bea3-cf4c6f56936b",
+      "kind": "podcast-episode",
+      "wrapperType": "podcastEpisode"
+    },
+    {
+      "artworkUrl600": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts113/v4/56/61/4b/56614b03-6ef9-f342-98e1-94e1bd55dfe0/mza_365944711200787953.jpg/600x600bb.jpg",
+      "closedCaptioning": "none",
+      "collectionId": 1096830182,
+      "collectionName": "Drink Champs",
+      "description": "N.O.R.E. & DJ EFN are the Drink Champs. In this episode we chop it up with the legendary, MC Shan!",
+      "releaseDate": "2022-04-08T08:00:00Z",
+      "shortDescription": "",
+      "trackTimeMillis": 10865000,
+      "collectionViewUrl": "https://itunes.apple.com/us/podcast/drink-champs/id1096830182?mt=2&uo=4",
+      "trackId": 1000556625496,
+      "trackName": "Episode 309 w/ MC Shan",
+      "artistIds": [
+        284341002
+      ],
+      "feedUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/df6d181a-09ea-4bf2-adc6-ae33005f650d/podcast.rss",
+      "episodeFileExtension": "mp3",
+      "episodeContentType": "audio",
+      "artworkUrl160": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts113/v4/56/61/4b/56614b03-6ef9-f342-98e1-94e1bd55dfe0/mza_365944711200787953.jpg/160x160bb.jpg",
+      "episodeUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/44d06f3c-e259-40bc-97cb-ae710095c614/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "previewUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/44d06f3c-e259-40bc-97cb-ae710095c614/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "artworkUrl60": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts113/v4/56/61/4b/56614b03-6ef9-f342-98e1-94e1bd55dfe0/mza_365944711200787953.jpg/60x60bb.jpg",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/interval-presents/284341002?mt=2&uo=4",
+      "contentAdvisoryRating": "Explicit",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/episode-309-w-mc-shan/id1096830182?i=1000556625496&uo=4",
+      "country": "USA",
+      "genres": [
+        {
+          "name": "Music",
+          "id": "1310"
+        }
+      ],
+      "episodeGuid": "041f31a8-ac31-11ec-bea3-e3591a5f93a6",
+      "kind": "podcast-episode",
+      "wrapperType": "podcastEpisode"
+    },
+    {
+      "artworkUrl600": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/e2/d2/71/e2d27164-f052-f4c4-8029-7f7ff722e918/mza_13750425478479878329.jpg/600x600bb.jpg",
+      "closedCaptioning": "none",
+      "collectionId": 1096830182,
+      "collectionName": "Drink Champs",
+      "description": "N.O.R.E. & DJ EFN are the Drink Champs. In this episode we chop it up with the legendary, Kid Capri!",
+      "releaseDate": "2022-04-01T08:00:00Z",
+      "shortDescription": "",
+      "trackTimeMillis": 9331000,
+      "collectionViewUrl": "https://itunes.apple.com/us/podcast/drink-champs/id1096830182?mt=2&uo=4",
+      "trackId": 1000555923013,
+      "trackName": "Episode 308 w/ Kid Capri",
+      "artistIds": [
+        284341002
+      ],
+      "feedUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/df6d181a-09ea-4bf2-adc6-ae33005f650d/podcast.rss",
+      "episodeFileExtension": "mp3",
+      "episodeContentType": "audio",
+      "artworkUrl160": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/e2/d2/71/e2d27164-f052-f4c4-8029-7f7ff722e918/mza_13750425478479878329.jpg/160x160bb.jpg",
+      "episodeUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/2139f9fa-baad-45e5-8d32-ae6a00924ad0/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "previewUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/2139f9fa-baad-45e5-8d32-ae6a00924ad0/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "artworkUrl60": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/e2/d2/71/e2d27164-f052-f4c4-8029-7f7ff722e918/mza_13750425478479878329.jpg/60x60bb.jpg",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/interval-presents/284341002?mt=2&uo=4",
+      "contentAdvisoryRating": "Explicit",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/episode-308-w-kid-capri/id1096830182?i=1000555923013&uo=4",
+      "country": "USA",
+      "genres": [
+        {
+          "name": "Music",
+          "id": "1310"
+        }
+      ],
+      "episodeGuid": "04021802-ac31-11ec-bea3-8fc7d7f97ad0",
+      "kind": "podcast-episode",
+      "wrapperType": "podcastEpisode"
+    },
+    {
+      "artworkUrl600": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts123/v4/b5/ac/dd/b5acdd09-330e-91c1-0535-187c059f2aa9/mza_2013116609034190806.jpg/600x600bb.jpg",
+      "closedCaptioning": "none",
+      "collectionId": 1096830182,
+      "collectionName": "Drink Champs",
+      "description": "N.O.R.E. & DJ EFN are the Drink Champs. In this episode we chop it up with the legendary, Remy Ma!",
+      "releaseDate": "2022-03-25T11:56:37Z",
+      "shortDescription": "",
+      "trackTimeMillis": 10751000,
+      "collectionViewUrl": "https://itunes.apple.com/us/podcast/drink-champs/id1096830182?mt=2&uo=4",
+      "trackId": 1000555213263,
+      "trackName": "Episode 307 w/ Remy Ma",
+      "artistIds": [
+        284341002
+      ],
+      "feedUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/df6d181a-09ea-4bf2-adc6-ae33005f650d/podcast.rss",
+      "episodeFileExtension": "mp3",
+      "episodeContentType": "audio",
+      "artworkUrl160": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts123/v4/b5/ac/dd/b5acdd09-330e-91c1-0535-187c059f2aa9/mza_2013116609034190806.jpg/160x160bb.jpg",
+      "episodeUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/ae69397d-a12c-450e-b6f9-ae6300c7cfaa/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "previewUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/ae69397d-a12c-450e-b6f9-ae6300c7cfaa/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "artworkUrl60": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts123/v4/b5/ac/dd/b5acdd09-330e-91c1-0535-187c059f2aa9/mza_2013116609034190806.jpg/60x60bb.jpg",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/interval-presents/284341002?mt=2&uo=4",
+      "contentAdvisoryRating": "Explicit",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/episode-307-w-remy-ma/id1096830182?i=1000555213263&uo=4",
+      "country": "USA",
+      "genres": [
+        {
+          "name": "Music",
+          "id": "1310"
+        }
+      ],
+      "episodeGuid": "ac3cd4e2-9b26-11ec-a089-8369be486a4c",
+      "kind": "podcast-episode",
+      "wrapperType": "podcastEpisode"
+    },
+    {
+      "artworkUrl600": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts123/v4/55/79/12/557912a9-ccac-541d-8882-91f1ff3cd2e9/mza_15772429545805462615.jpg/600x600bb.jpg",
+      "closedCaptioning": "none",
+      "collectionId": 1096830182,
+      "collectionName": "Drink Champs",
+      "description": "N.O.R.E. & DJ EFN are the Drink Champs. In this episode we chop it up with the legendary, 2 Chainz!",
+      "releaseDate": "2022-03-18T08:00:00Z",
+      "shortDescription": "",
+      "trackTimeMillis": 12517000,
+      "collectionViewUrl": "https://itunes.apple.com/us/podcast/drink-champs/id1096830182?mt=2&uo=4",
+      "trackId": 1000554456155,
+      "trackName": "Episode 306 w/ 2 Chainz",
+      "artistIds": [
+        284341002
+      ],
+      "feedUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/df6d181a-09ea-4bf2-adc6-ae33005f650d/podcast.rss",
+      "episodeFileExtension": "mp3",
+      "episodeContentType": "audio",
+      "artworkUrl160": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts123/v4/55/79/12/557912a9-ccac-541d-8882-91f1ff3cd2e9/mza_15772429545805462615.jpg/160x160bb.jpg",
+      "episodeUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/1b3ab318-6642-47f1-ac3e-ae5c0097837a/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "previewUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/1b3ab318-6642-47f1-ac3e-ae5c0097837a/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "artworkUrl60": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts123/v4/55/79/12/557912a9-ccac-541d-8882-91f1ff3cd2e9/mza_15772429545805462615.jpg/60x60bb.jpg",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/interval-presents/284341002?mt=2&uo=4",
+      "contentAdvisoryRating": "Explicit",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/episode-306-w-2-chainz/id1096830182?i=1000554456155&uo=4",
+      "country": "USA",
+      "genres": [
+        {
+          "name": "Music",
+          "id": "1310"
+        }
+      ],
+      "episodeGuid": "ac291a2e-9b26-11ec-a089-f37e28d4ee39",
+      "kind": "podcast-episode",
+      "wrapperType": "podcastEpisode"
+    },
+    {
+      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/21/df/2e/21df2e44-28e2-1ed4-1ed4-3858664d912a/mza_2813405714176778432.jpg/600x600bb.jpg",
+      "closedCaptioning": "none",
+      "collectionId": 1096830182,
+      "collectionName": "Drink Champs",
+      "description": "N.O.R.E. & DJ EFN are the Drink Champs. In this episode we chop it up with the one and only, Jason Lee!",
+      "releaseDate": "2022-03-11T09:00:00Z",
+      "shortDescription": "",
+      "trackTimeMillis": 6308000,
+      "collectionViewUrl": "https://itunes.apple.com/us/podcast/drink-champs/id1096830182?mt=2&uo=4",
+      "trackId": 1000553691288,
+      "trackName": "Episode 305 w/ Jason Lee",
+      "artistIds": [
+        284341002
+      ],
+      "feedUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/df6d181a-09ea-4bf2-adc6-ae33005f650d/podcast.rss",
+      "episodeFileExtension": "mp3",
+      "episodeContentType": "audio",
+      "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/21/df/2e/21df2e44-28e2-1ed4-1ed4-3858664d912a/mza_2813405714176778432.jpg/160x160bb.jpg",
+      "episodeUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/95c24783-206c-4e92-b86d-ae55009fcbbf/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "previewUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/95c24783-206c-4e92-b86d-ae55009fcbbf/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/21/df/2e/21df2e44-28e2-1ed4-1ed4-3858664d912a/mza_2813405714176778432.jpg/60x60bb.jpg",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/interval-presents/284341002?mt=2&uo=4",
+      "contentAdvisoryRating": "Explicit",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/episode-305-w-jason-lee/id1096830182?i=1000553691288&uo=4",
+      "country": "USA",
+      "genres": [
+        {
+          "name": "Music",
+          "id": "1310"
+        }
+      ],
+      "episodeGuid": "ac148c44-9b26-11ec-a089-d78961549bd8",
+      "kind": "podcast-episode",
+      "wrapperType": "podcastEpisode"
+    },
+    {
+      "artworkUrl600": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/7d/d6/06/7dd606df-fb43-3a7c-6ee5-21b3ad2c8eeb/mza_4856324079884635850.jpg/600x600bb.jpg",
+      "closedCaptioning": "none",
+      "collectionId": 1096830182,
+      "collectionName": "Drink Champs",
+      "description": "N.O.R.E. & DJ EFN are the Drink Champs. In this episode we chop it up with the one and only, The Game!",
+      "releaseDate": "2022-03-04T10:00:00Z",
+      "shortDescription": "",
+      "trackTimeMillis": 15168000,
+      "collectionViewUrl": "https://itunes.apple.com/us/podcast/drink-champs/id1096830182?mt=2&uo=4",
+      "trackId": 1000552912047,
+      "trackName": "Episode 304 w/ The Game",
+      "artistIds": [
+        284341002
+      ],
+      "feedUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/df6d181a-09ea-4bf2-adc6-ae33005f650d/podcast.rss",
+      "episodeFileExtension": "mp3",
+      "episodeContentType": "audio",
+      "artworkUrl160": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/7d/d6/06/7dd606df-fb43-3a7c-6ee5-21b3ad2c8eeb/mza_4856324079884635850.jpg/160x160bb.jpg",
+      "episodeUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/84f3311e-1cd6-43ce-beed-ae4e00b94217/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "previewUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/84f3311e-1cd6-43ce-beed-ae4e00b94217/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "artworkUrl60": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/7d/d6/06/7dd606df-fb43-3a7c-6ee5-21b3ad2c8eeb/mza_4856324079884635850.jpg/60x60bb.jpg",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/interval-presents/284341002?mt=2&uo=4",
+      "contentAdvisoryRating": "Explicit",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/episode-304-w-the-game/id1096830182?i=1000552912047&uo=4",
+      "country": "USA",
+      "genres": [
+        {
+          "name": "Music",
+          "id": "1310"
+        }
+      ],
+      "episodeGuid": "abff67a6-9b26-11ec-a089-43dbd0dd6b23",
+      "kind": "podcast-episode",
+      "wrapperType": "podcastEpisode"
+    },
+    {
+      "artworkUrl600": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts123/v4/09/a7/f2/09a7f296-dc32-7788-f4c1-ac872e446513/mza_12754008798339129571.jpg/600x600bb.jpg",
+      "closedCaptioning": "none",
+      "collectionId": 1096830182,
+      "collectionName": "Drink Champs",
+      "description": "N.O.R.E. & DJ EFN are the Drink Champs. In this episode we chop it up with the legendary, Twista!",
+      "releaseDate": "2022-02-25T13:42:12Z",
+      "shortDescription": "",
+      "trackTimeMillis": 5793000,
+      "collectionViewUrl": "https://itunes.apple.com/us/podcast/drink-champs/id1096830182?mt=2&uo=4",
+      "trackId": 1000552222614,
+      "trackName": "Episode 303 w/ Twista",
+      "artistIds": [
+        284341002
+      ],
+      "feedUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/df6d181a-09ea-4bf2-adc6-ae33005f650d/podcast.rss",
+      "episodeFileExtension": "mp3",
+      "episodeContentType": "audio",
+      "artworkUrl160": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts123/v4/09/a7/f2/09a7f296-dc32-7788-f4c1-ac872e446513/mza_12754008798339129571.jpg/160x160bb.jpg",
+      "episodeUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/57391657-3a42-4ffb-9706-ae4700eb764e/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "previewUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/57391657-3a42-4ffb-9706-ae4700eb764e/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "artworkUrl60": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts123/v4/09/a7/f2/09a7f296-dc32-7788-f4c1-ac872e446513/mza_12754008798339129571.jpg/60x60bb.jpg",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/interval-presents/284341002?mt=2&uo=4",
+      "contentAdvisoryRating": "Explicit",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/episode-303-w-twista/id1096830182?i=1000552222614&uo=4",
+      "country": "USA",
+      "genres": [
+        {
+          "name": "Music",
+          "id": "1310"
+        }
+      ],
+      "episodeGuid": "935c3af4-8a9f-11ec-9930-038030dcaa94",
+      "kind": "podcast-episode",
+      "wrapperType": "podcastEpisode"
+    },
+    {
+      "artworkUrl600": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts123/v4/e8/60/71/e860714e-b93d-67a1-1447-0d1ebdd35e22/mza_12708199054593264703.jpg/600x600bb.jpg",
+      "closedCaptioning": "none",
+      "collectionId": 1096830182,
+      "collectionName": "Drink Champs",
+      "description": "N.O.R.E. & DJ EFN are the Drink Champs. In this episode we chop it up with Money B and Young Hump of the iconic group Digital Underground!",
+      "releaseDate": "2022-02-18T10:00:00Z",
+      "shortDescription": "",
+      "trackTimeMillis": 9864000,
+      "collectionViewUrl": "https://itunes.apple.com/us/podcast/drink-champs/id1096830182?mt=2&uo=4",
+      "trackId": 1000551510449,
+      "trackName": "Episode 302 w/ Money B and Young Hump (of Digital Underground)",
+      "artistIds": [
+        284341002
+      ],
+      "feedUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/df6d181a-09ea-4bf2-adc6-ae33005f650d/podcast.rss",
+      "episodeFileExtension": "mp3",
+      "episodeContentType": "audio",
+      "artworkUrl160": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts123/v4/e8/60/71/e860714e-b93d-67a1-1447-0d1ebdd35e22/mza_12708199054593264703.jpg/160x160bb.jpg",
+      "episodeUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/e771be3b-36b0-4f73-9ece-ae4000c09cf3/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "previewUrl": "https://chrt.fm/track/BE7515/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/9ff2dac3-12fd-4561-b512-ae33005f64f5/e771be3b-36b0-4f73-9ece-ae4000c09cf3/audio.mp3?utm_source=Podcast&in_playlist=df6d181a-09ea-4bf2-adc6-ae33005f650d",
+      "artworkUrl60": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts123/v4/e8/60/71/e860714e-b93d-67a1-1447-0d1ebdd35e22/mza_12708199054593264703.jpg/60x60bb.jpg",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/interval-presents/284341002?mt=2&uo=4",
+      "contentAdvisoryRating": "Explicit",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/episode-302-w-money-b-and-young-hump-of-digital-underground/id1096830182?i=1000551510449&uo=4",
+      "country": "USA",
+      "genres": [
+        {
+          "name": "Music",
+          "id": "1310"
+        }
+      ],
+      "episodeGuid": "9349b604-8a9f-11ec-9930-eb079db4e238",
+      "kind": "podcast-episode",
+      "wrapperType": "podcastEpisode"
+    }
+  ]
+}

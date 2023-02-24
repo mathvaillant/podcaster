@@ -1,16 +1,19 @@
 context("/podcasts/:podcastId", () => {
   beforeEach(() => {
     cy.visit("/");
+    cy.intercept(
+      { method: "GET", url: "**/us/rss/toppodcasts/**" },
+      { fixture: "allData.json" }
+    ).as("data");
+    cy.intercept(
+      {
+        method: "GET",
+        url: "**/lookup?id=1661154206&entity=podcastEpisode"
+      },
+      { fixture: "episodes.json" }
+    ).as("data");
+    cy.dataCy("podcast-card").eq(10).click();
     cy.wait(2000);
-    cy.dataCy("podcast-card")
-      .eq(10)
-      .click()
-      .then(() => {
-        cy.wait(2000);
-        cy.url().then((url) => {
-          expect(url).to.include("podcasts");
-        });
-      });
   });
 
   describe("Check the header component", () => {
@@ -28,7 +31,7 @@ context("/podcasts/:podcastId", () => {
     });
   });
 
-  describe("Check the right card - Table", () => {
+  describe("Check the right cards", () => {
     it("Should exist", () => {
       cy.dataCy("details_left_card").should("exist");
       cy.dataCy("details_left_card_img").should("exist");
@@ -41,37 +44,34 @@ context("/podcasts/:podcastId", () => {
         cy.wrap($el).find('[data-cy="episodes_date"]').should("exist");
         cy.wrap($el).find('[data-cy="episodes_duration"]').should("exist");
       });
-      cy.dataCy("episodes_track_name")
-        .first()
-        .click()
-        .then(() => {
-          cy.wait(2000);
-          cy.location().then(({ pathname }) => {
-            expect(pathname).to.includes("podcasts");
-            expect(pathname).to.includes("episode");
+    });
+  });
 
-            cy.dataCy("episode_title").should("exist");
-            cy.dataCy("episode_audio").should("exist");
-            cy.dataCy("episode_play")
-              .should("exist")
-              .trigger("click")
-              .then(() => {
-                cy.wait(500);
-                cy.dataCy("episode_pause").should("exist");
+  describe("Properly plays the podcast episode", () => {
+    it("Should play the audio, check if it is playing in the browser and pause it.", () => {
+      cy.dataCy("episodes_track_name").first().click();
+      cy.wait(2000);
 
-                cy.wait(1000).then(() => {
-                  cy.window().then((win) => {
-                    const isPlaying =
-                      win.document.getElementsByTagName("audio")[0]
-                        .currentTime > 0 &&
-                      !win.document.getElementsByTagName("audio")[0].paused &&
-                      !win.document.getElementsByTagName("audio")[0].ended;
-                    expect(isPlaying).to.be.true;
-                  });
-                });
-              });
-          });
+      cy.location().then(({ pathname }) => {
+        expect(pathname).to.includes("podcasts");
+        expect(pathname).to.includes("episode");
+      });
+
+      cy.dataCy("episode_title").should("exist");
+      cy.dataCy("episode_audio").should("exist");
+      cy.dataCy("episode_play").should("exist").trigger("click");
+
+      cy.wait(500);
+      cy.dataCy("episode_pause").should("exist");
+      cy.wait(5000).then(() => {
+        cy.window().then((win) => {
+          const isPlaying =
+            win.document.getElementsByTagName("audio")[0].currentTime > 0 &&
+            !win.document.getElementsByTagName("audio")[0].paused &&
+            !win.document.getElementsByTagName("audio")[0].ended;
+          expect(isPlaying).to.be.true;
         });
+      });
     });
   });
 });

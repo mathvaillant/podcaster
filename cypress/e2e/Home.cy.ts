@@ -1,6 +1,10 @@
 context("/", () => {
   beforeEach(() => {
     cy.visit("/");
+    cy.intercept(
+      { method: "GET", url: "**/us/rss/toppodcasts/**" },
+      { fixture: "allData.json" }
+    ).as("data");
     cy.wait(100);
   });
 
@@ -32,7 +36,7 @@ context("/", () => {
     });
   });
 
-  describe("Check number of results reflect correct number on badge", () => {
+  describe("Check if number of results reflect correct number on badge", () => {
     it("Should have n results and the same amount on the badge", () => {
       cy.dataCy("filter_podcasts").type("sh");
       cy.dataCy("podcasts_container")
@@ -40,20 +44,6 @@ context("/", () => {
         .find('[data-cy="podcast-card"]')
         .then(($cards) => {
           cy.dataCy("badge").should("have.text", $cards.length);
-        });
-    });
-  });
-
-  describe("Should click in a random card and be redirected to /podcasts/:podcastId", () => {
-    it("Should click in a card", () => {
-      cy.dataCy("podcast-card")
-        .first()
-        .click()
-        .then(() => {
-          cy.wait(2000);
-          cy.location().then(({ pathname }) => {
-            expect(pathname).to.include("podcasts");
-          });
         });
     });
   });
