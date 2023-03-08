@@ -2,6 +2,9 @@
 import React, { useEffect, useState } from "react";
 import { useLocation, useNavigate } from "react-router-dom";
 
+// Custom hooks 
+import useGlobalStore from "/@/Context/Global/Global.hook";
+
 // MUI
 import {
   AppBar,
@@ -18,22 +21,14 @@ import useStyles from "./styles";
 export default function Header() {
   const { classes } = useStyles();
   const navigate = useNavigate();
-  const { pathname } = useLocation();
-  const [loading, setLoading] = useState(false);
-
-  useEffect(() => {
-    if (!loading) {
-      setLoading(true);
-    }
-    setTimeout(() => setLoading(false), 500);
-  }, [pathname]);
+  const [{ globalLoader }, _] = useGlobalStore();
 
   const onClick = () => navigate("/");
 
   return (
-    <AppBar classes={classes.root} variant="outlined" color="inherit">
+    <AppBar elevation={1} className={classes.root} color="inherit">
       <Container maxWidth="lg">
-        <Toolbar variant="dense" data-cy="tool_bar" id="tool_bar">
+        <Toolbar variant="dense" data-testid="tool-bar" id="tool-bar">
           <Typography
             variant="h6"
             noWrap
@@ -44,11 +39,13 @@ export default function Header() {
               size="large"
               className={classes.button}
               onClick={onClick}
-              data-cy="page_title"
+              data-testid="page-title"
             >
               Podcaster
             </Button>
-            {loading && <CircularProgress size={20} thickness={8} />}
+            {globalLoader === "loading" && (
+              <CircularProgress size={20} thickness={8} />
+            )}
           </Typography>
         </Toolbar>
       </Container>

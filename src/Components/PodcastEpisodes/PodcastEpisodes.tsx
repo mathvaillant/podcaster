@@ -1,5 +1,5 @@
 import React from "react";
-import { useLoaderData, useNavigate } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 
 // MUI
 import {
@@ -19,19 +19,15 @@ import {
 import useStyles from "./styles";
 
 // Utils
-import { millisToMinutesAndSeconds } from "/@/Utils/time";
+import { millisToHoursMinutesAndSeconds } from "/@/Utils/time";
 
-// Types
-import { IEpisode } from "/@/Types/Podcast";
-
-interface ILoaderData {
-  episodes: IEpisode[];
-}
+// Hooks
+import usePodcastEpisodes from "./PodcastEpisodes.hook";
 
 const PodcastEpisodes = () => {
   const { classes } = useStyles();
   const navigate = useNavigate();
-  const { episodes } = useLoaderData() as ILoaderData;
+  const { episodes } = usePodcastEpisodes();
 
   const onClickEpisode = (episodeId: number) => {
     navigate(`episode/${episodeId}`);
@@ -43,7 +39,7 @@ const PodcastEpisodes = () => {
         <Typography
           variant="h5"
           className={classes.title}
-          data-cy="episodes_title"
+          data-testid="episodes_title"
         >
           Episodes: {episodes.length}
         </Typography>
@@ -51,7 +47,7 @@ const PodcastEpisodes = () => {
       <Card
         elevation={3}
         className={classes.bottomCard}
-        data-cy="episodes_table"
+        data-testid="episodes_table"
       >
         <TableContainer component={Paper} className={classes.tablePaper}>
           <Table sx={{ width: "100%" }} size="small">
@@ -79,30 +75,34 @@ const PodcastEpisodes = () => {
                 ({ trackName, trackTimeMillis, releaseDate, trackId }) => (
                   <TableRow
                     key={trackName}
-                    data-cy="episodes_row"
+                    data-testid="episodes_row"
                     sx={{
-                      "&:nth-of-type(odd)": { backgroundColor: "#f9fcff" }
+                      "&:nth-of-type(odd)": { backgroundColor: "#fafafa" }
                     }}
                   >
                     <TableCell
                       component="th"
                       scope="row"
-                      data-cy="episodes_track_name"
+                      data-testid="episodes_track_name"
                       width={2100}
                       className={classes.link}
                       onClick={() => onClickEpisode(trackId)}
                     >
                       {trackName}
                     </TableCell>
-                    <TableCell align="right" width={50} data-cy="episodes_date">
+                    <TableCell
+                      align="right"
+                      width={50}
+                      data-testid="episodes_date"
+                    >
                       {new Date(releaseDate).toLocaleDateString()}
                     </TableCell>
                     <TableCell
                       align="right"
                       width={45}
-                      data-cy="episodes_duration"
+                      data-testid="episodes_duration"
                     >
-                      {millisToMinutesAndSeconds(trackTimeMillis)}
+                      {millisToHoursMinutesAndSeconds(trackTimeMillis)}
                     </TableCell>
                   </TableRow>
                 )

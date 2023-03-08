@@ -19,11 +19,11 @@ const PodcastsContainer: React.FC<Props> = ({ podcasts = [] }) => {
       container
       display="flex"
       justifyContent="center"
-      data-cy="podcasts_container"
+      data-testid="podcasts_container"
     >
       {podcasts.map((podcast, index) => {
         return (
-          <Grid xs={3} key={index} data-cy="podcast-card">
+          <Grid item xs={3} key={index} data-testid="podcast-card">
             <PodcastCard podcast={podcast} />
           </Grid>
         );

@@ -1,5 +1,4 @@
-import React, { useState, useRef, SyntheticEvent } from "react";
-import { useLoaderData } from "react-router-dom";
+import React, { useState, useRef } from "react";
 
 // MUI
 import {
@@ -16,18 +15,14 @@ import { PlayArrow, Pause, VolumeOff, VolumeUp } from "@mui/icons-material";
 import useStyles from "./styles";
 
 // Utils
-import { millisToMinutesAndSeconds } from "/@/Utils/time";
+import { millisToHoursMinutesAndSeconds } from "/@/Utils/time";
 
-// Types
-import { IEpisode } from "/@/Types/Podcast";
-
-interface ILoaderData {
-  episode: IEpisode;
-}
+// Hook
+import usePodcastEpisode from "./PodcastEpisode.hook";
 
 const PodcastEpisode = () => {
   const { classes } = useStyles();
-  const { episode } = useLoaderData() as ILoaderData;
+  const { episode } = usePodcastEpisode();
 
   const [isPlaying, setIsPlaying] = useState(false);
   const [progress, setProgress] = useState(0);
@@ -35,6 +30,8 @@ const PodcastEpisode = () => {
   const [currentTime, setCurrentTime] = useState(0);
 
   const audioRef = useRef<any>(null);
+
+  if (!episode) return null;
 
   function handlePlayPause() {
     const audio = audioRef.current;
@@ -85,7 +82,7 @@ const PodcastEpisode = () => {
   return (
     <Grid xs={12} className={classes.root}>
       <Card elevation={3} className={classes.cardWrapper}>
-        <Typography variant="h5" data-cy="episode_title">
+        <Typography variant="h5" data-testid="episode_title">
           {episode.trackName}
         </Typography>
         <Typography variant="subtitle1" className={classes.desc}>
@@ -93,7 +90,7 @@ const PodcastEpisode = () => {
         </Typography>
         <Divider sx={{ margin: "1rem 0rem" }} />
         <Card>
-          <div className={classes.audioBar} data-cy="episode_audio">
+          <div className={classes.audioBar} data-testid="episode_audio">
             <audio
               ref={audioRef}
               src={episode.episodeUrl}
@@ -103,13 +100,13 @@ const PodcastEpisode = () => {
               <Pause
                 fontSize="large"
                 onClick={handlePlayPause}
-                data-cy="episode_pause"
+                data-testid="episode_pause"
               />
             ) : (
               <PlayArrow
                 fontSize="large"
                 onClick={handlePlayPause}
-                data-cy="episode_play"
+                data-testid="episode_play"
               />
             )}
             <Slider
@@ -123,8 +120,12 @@ const PodcastEpisode = () => {
             ) : (
               <VolumeUp onClick={handleMute} />
             )}
-            <Typography variant="subtitle2" className={classes.time}>
-              {millisToMinutesAndSeconds(currentTime * 1000)}
+            <Typography
+              variant="subtitle2"
+              className={classes.time}
+              data-testid="timer"
+            >
+              {millisToHoursMinutesAndSeconds(currentTime * 1000)}
             </Typography>
           </div>
         </Card>

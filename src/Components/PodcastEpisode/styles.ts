@@ -18,7 +18,8 @@ export default makeStyles()(() => ({
     alignItems: "center",
     padding: ".3rem",
     backgroundColor: "#656565",
-    cursor: "pointer"
+    cursor: "pointer",
+    gap: "1rem"
   },
   slider: {
     color: "black",

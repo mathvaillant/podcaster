@@ -17,11 +17,12 @@ export const localStorageMiddleware = async (
   refetcher: () => Promise<any>
 ) => {
   const prevData = JSON.parse(localStorage.getItem(lsKey) as any);
-  const yesterday = Number(prevData?.lastUpdate);
-  const yesterdayTime = new Date(yesterday).getTime() - 24 * 60 * 60 * 1000;
-  const now = new Date().getTime();
+  const lastUpdateTime = Number(prevData?.lastUpdate);
 
-  if (now < yesterdayTime || !prevData) {
+  const now = new Date().getTime();
+  const oneDayAgo = now - 24 * 60 * 60 * 1000;
+
+  if (oneDayAgo > lastUpdateTime || !prevData) {
     const { data } = await refetcher();
 
     const new_content = { data, lastUpdate: now };

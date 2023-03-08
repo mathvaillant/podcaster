@@ -29,14 +29,14 @@ const PodcastCard: React.FC<Props> = ({ podcast }) => {
       <img
         className={classes.img}
         src={podcast["im:image"].at(-1).label}
-        data-cy="card_image"
+        data-testid="card_image"
       />
-      <Card elevation={4} className={classes.cardWrapper}>
+      <Card className={classes.cardWrapper}>
         <CardContent>
-          <Typography className={classes.title} data-cy="card_name">
+          <Typography className={classes.title} data-testid="card_name">
             {podcast["im:name"].label}
           </Typography>
-          <Typography className={classes.author} data-cy="card_author">
+          <Typography className={classes.author} data-testid="card_author">
             Author: {podcast["im:artist"].label}
           </Typography>
         </CardContent>

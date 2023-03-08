@@ -1,11 +1,14 @@
 /**
-
-Converts time in milliseconds to a string in minutes and seconds format (mm:ss)
-@param {number} millis - Time in milliseconds to convert
-@returns {string} Time in minutes and seconds format (mm:ss)
-*/
-export function millisToMinutesAndSeconds(millis: number) {
-  const minutes = Math.floor(millis / 60000);
+ * Converts the given time in milliseconds to hours, minutes, and seconds.
+ * @param {number} millis - The time to convert, in milliseconds.
+ * @returns {string} A string in the format 'hh:mm:ss', where hh is the number of hours, mm is the number of minutes, and ss is the number of seconds.
+ */
+export function millisToHoursMinutesAndSeconds(millis: number) {
+  const hours = Math.floor(millis / 3600000);
+  const minutes = Math.floor((millis % 3600000) / 60000);
   const seconds = Number(((millis % 60000) / 1000).toFixed(0));
-  return `${minutes}:${seconds < 10 ? "0" : ""}${seconds}`;
+  return `${hours}:${minutes < 10 ? "0" : ""}${minutes}:${
+    seconds < 10 ? "0" : ""
+  }${seconds}`;
 }
+

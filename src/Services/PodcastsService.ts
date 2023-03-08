@@ -8,9 +8,9 @@ const BASE_URL = "https://itunes.apple.com";
 Retrieves all podcasts from local storage if they exist and are not stale, otherwise fetches them from the API
 @async
 @function getAll
-@returns {Promise<Array>} - An array of podcast objects
+@returns {Promise<Record<"feed", Record<"entry", []>>>} - An array of podcast objects
 */
-async function getAll(): Promise<Array<any>> {
+async function getAll(): Promise<Record<"feed", Record<"entry", []>>> {
   const lsKey = "podcasts-data";
 
   return await localStorageMiddleware(lsKey, () =>
@@ -31,9 +31,12 @@ async function getPodcastById(podcastId: string) {
   const lsKey = `podcast_${podcastId}`;
 
   return await localStorageMiddleware(lsKey, () =>
-    axios.get(`${BASE_URL}/lookup?id=${podcastId}&entity=podcastEpisode`, {
-      headers: { "Content-Type": "application/json" }
-    })
+    axios.get(
+      `${BASE_URL}/lookup?id=${podcastId}&entity=podcastEpisode&limit=1000`,
+      {
+        headers: { "Content-Type": "application/json" }
+      }
+    )
   );
 }
 

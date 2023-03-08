@@ -1,6 +1,10 @@
+/// <reference types="vitest" />
+/// <reference types="vite/client" />
+
 import { defineConfig } from "vite";
-import react from "@vitejs/plugin-react";
 import { resolve } from "path";
+
+import react from "@vitejs/plugin-react";
 
 export default defineConfig({
   resolve: {
@@ -9,7 +13,11 @@ export default defineConfig({
         find: "common",
         replacement: resolve(__dirname, "src/common")
       },
-      { find: "/@", replacement: resolve(__dirname, "src") }
+      { find: "/@", replacement: resolve(__dirname, "src") },
+      {
+        find: "/@fixtures",
+        replacement: resolve(__dirname, "cypress/fixtures")
+      }
     ]
   },
   server: {
@@ -18,5 +26,9 @@ export default defineConfig({
   preview: {
     port: 8080
   },
-  plugins: [react()]
+  plugins: [react()],
+  test: {
+    globals: true,
+    environment: "jsdom"
+  }
 });

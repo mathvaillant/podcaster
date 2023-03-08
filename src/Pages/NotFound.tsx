@@ -15,6 +15,7 @@ const NotFound: React.FC<Props> = ({ message }) => {
   return (
     <Container
       maxWidth="md"
+      data-testid="not-found"
       sx={{
         display: "flex",
         flexDirection: "column",

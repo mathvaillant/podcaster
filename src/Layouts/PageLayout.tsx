@@ -10,6 +10,7 @@ const PageLayout = ({ children }: { children: React.ReactNode }) => {
   return (
     <Container
       maxWidth="lg"
+      data-testid="page-layout"
       sx={{
         display: "flex",
         flexDirection: "column",
